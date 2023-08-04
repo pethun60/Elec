@@ -78,6 +78,9 @@ def mqtt_save():
     #f.write(input_topic +"\n")
     #f.close()
 
+def hourly_energy():
+    #save energy consumption every hour
+
 
 # -------------------------------------------------
 
