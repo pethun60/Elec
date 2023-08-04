@@ -44,3 +44,36 @@
 2023-08-04 13:58:50,838 : DEBUG : __main__ : all mqtt_save value saved
 2023-08-04 13:58:50,910 : DEBUG : __main__ : connecting to broker192.168.1.105
 2023-08-04 13:58:51,999 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:01,012 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:01,039 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:02,115 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:12,130 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:12,197 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:13,412 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:23,426 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:23,473 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:24,517 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:34,532 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:34,571 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:36,283 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:45,297 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:45,365 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:46,415 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 13:59:56,430 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 13:59:56,486 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 13:59:57,550 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 14:00:07,566 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 14:00:07,621 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 14:00:08,655 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 14:00:18,670 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 14:00:18,740 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 14:00:19,785 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 14:00:28,799 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 14:00:28,860 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 14:00:29,936 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 14:00:38,950 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 14:00:39,007 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 14:00:40,068 : DEBUG : __main__ : connected OK to mqtt broker
+2023-08-04 14:00:49,082 : DEBUG : __main__ : all mqtt_save value saved
+2023-08-04 14:00:49,141 : DEBUG : __main__ : connecting to broker192.168.1.105
+2023-08-04 14:00:50,210 : DEBUG : __main__ : connected OK to mqtt broker
