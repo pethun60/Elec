@@ -80,7 +80,7 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
-
+    print("hourly energy output")
 
 # -------------------------------------------------
 
@@ -100,6 +100,12 @@ if __name__ == '__main__':
     xonxoff=False,
     )
     read_lines=30
+
+    scheduler = sched.scheduler(time.time, time.sleep)
+
+    scheduler.enter(5, 1, hourly_energy(), ())
+   
+
     # serial_port.open()
     while True:
         try: 
@@ -275,6 +281,7 @@ if __name__ == '__main__':
             else:
                 print("forloop finished")
             mqtt_save()
+            scheduler.run()
     #mqtt_save('effektutag',active_energy_out_curr)
     #mqtt_save('SpänningL1',L1voltage)
     #mqtt_save('SpänningL2',L2voltage)
