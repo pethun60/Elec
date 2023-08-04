@@ -8,7 +8,7 @@ import errno
 import sched
 
 
-logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.ERROR)
+logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -80,6 +80,7 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
+    logger.debug('hourly energy function run')
     print("hourly energy output")
 
 # -------------------------------------------------
@@ -103,7 +104,7 @@ if __name__ == '__main__':
 
     scheduler = sched.scheduler(time.time, time.sleep)
 
-    scheduler.enter(60, 1, hourly_energy(), ())
+
    
 
     # serial_port.open()
@@ -281,7 +282,9 @@ if __name__ == '__main__':
             else:
                 print("forloop finished")
             mqtt_save()
-            scheduler.run()
+            #scheduler.enter(60, 1, hourly_energy, ())
+            #scheduler.run()
+
     #mqtt_save('effektutag',active_energy_out_curr)
     #mqtt_save('SpänningL1',L1voltage)
     #mqtt_save('SpänningL2',L2voltage)
