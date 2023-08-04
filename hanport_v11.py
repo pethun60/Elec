@@ -103,7 +103,7 @@ if __name__ == '__main__':
 
     scheduler = sched.scheduler(time.time, time.sleep)
 
-    scheduler.enter(5, 1, hourly_energy(), ())
+    scheduler.enter(60, 1, hourly_energy(), ())
    
 
     # serial_port.open()
