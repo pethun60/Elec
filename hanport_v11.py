@@ -5,7 +5,7 @@ import logging
 import time
 import socket
 import errno
-import sched
+import schedule
 
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.DEBUG)
