@@ -314,5 +314,5 @@ if __name__ == '__main__':
         except socket.timeout:
             logger.error("timeout error in network")
             print("Socket timeout occurred.") 
-            time.sleep(10)
+            time.sleep(11)
             continue
