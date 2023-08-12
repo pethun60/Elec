@@ -80,9 +80,8 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
-    now = time.localtime()
-    current_time = time.strftime("%H:%M:%S", now)
-    logger.debug('hourly energy function run ', current_time)
+
+    logger.debug('hourly energy function run ')
     print("hourly energy output")
 
 # -------------------------------------------------
@@ -105,7 +104,7 @@ if __name__ == '__main__':
     read_lines=30
 
     #scheduler = sched.scheduler(time.time, time.sleep)
-    schedule.every(60).seconds.do(hourly_energy)
+    schedule.every(60).minutes.do(hourly_energy)
 
    
 
