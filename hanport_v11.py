@@ -102,8 +102,8 @@ if __name__ == '__main__':
     )
     read_lines=30
 
-    scheduler = sched.scheduler(time.time, time.sleep)
-
+    #scheduler = sched.scheduler(time.time, time.sleep)
+    schedule.every(60).seconds.do(hourly_energy)
 
    
 
@@ -282,6 +282,7 @@ if __name__ == '__main__':
             else:
                 print("forloop finished")
             mqtt_save()
+            schedule.run_pending()
             #scheduler.enter(60, 1, hourly_energy, ())
             # test code
             #scheduler.run()
