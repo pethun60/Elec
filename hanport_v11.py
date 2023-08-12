@@ -47,7 +47,7 @@ def mqtt_save():
     client.username_pw_set(user, password=password)
     client.loop_start()
     print('connecting to broker' + input_host)
-    logger.debug('connecting to broker' + input_host)
+    #logger.debug('connecting to broker' + input_host)
     client.connect(input_host,1883,60)
     while not client.connected_flag: #wait in loop
         print("In wait mqtt loop")
