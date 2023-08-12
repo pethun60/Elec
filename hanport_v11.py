@@ -27,7 +27,7 @@ def mqtt_save():
         if rc==0:
             client.connected_flag=True #set flag
             print("connected OK")
-            logger.debug('connected OK to mqtt broker')
+            #logger.debug('connected OK to mqtt broker')
         else:
             print("Bad connection Returned code=",rc)
             logger.debug('Failed to connect to mqtt broker')
@@ -72,7 +72,7 @@ def mqtt_save():
     input_topic="/el/tobo/"+"FasströmL3"
     client.publish(input_topic,L3ampere)
     client.disconnect();
-    logger.debug('all mqtt_save value saved')
+    #logger.debug('all mqtt_save value saved')
     #f= open("temp_RH.txt","a+")
     #f.write("mqtt value" + mqtt_value + "\n")
     #f.write(input_topic +"\n")
@@ -80,7 +80,9 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
-    logger.debug('hourly energy function run')
+    now = time.localtime()
+    current_time = time.strftime("%H:%M:%S", now)
+    logger.debug('hourly energy function run ', current_time)
     print("hourly energy output")
 
 # -------------------------------------------------
