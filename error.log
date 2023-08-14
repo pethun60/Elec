@@ -1,3 +1,302 @@
 2023-08-12 13:52:40,342 : DEBUG : __main__ : hourly energy function run 
 2023-08-12 13:53:41,174 : DEBUG : __main__ : hourly energy function run 
 2023-08-12 13:54:44,796 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 14:54:59,526 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 15:55:03,236 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 16:47:05,168 : DEBUG : __main__ : timeout('timed out')
+2023-08-12 16:55:03,512 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 17:55:09,839 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 18:45:52,524 : DEBUG : __main__ : timeout('timed out')
+2023-08-12 18:55:12,355 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 19:55:17,850 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 20:55:19,881 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 21:55:26,744 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 22:55:36,017 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 23:55:41,901 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 00:55:49,108 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 01:55:53,529 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 02:55:54,845 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 03:55:57,442 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 04:56:04,033 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 05:56:13,551 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 06:56:22,111 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 07:56:24,282 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 08:56:24,635 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 09:56:27,782 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 10:56:35,984 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 11:52:01,953 : DEBUG : __main__ : timeout('timed out')
+2023-08-13 11:56:43,027 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 12:56:49,274 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 13:03:58,278 : DEBUG : __main__ : timeout('timed out')
+2023-08-13 13:56:55,659 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 14:57:02,506 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 15:57:08,329 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 16:57:16,930 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 17:57:18,206 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 18:57:25,292 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 19:57:30,013 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 20:57:38,719 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 21:57:42,119 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 22:57:44,959 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 23:57:54,675 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 00:24:48,079 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 00:24:48,143 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:24:48,143 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:24:58,225 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:24:58,226 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:08,332 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:08,333 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:18,415 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:18,415 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:28,500 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:28,501 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:38,575 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:38,575 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:48,657 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:48,658 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:58,766 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:58,767 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:08,877 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:08,877 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:18,970 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:18,970 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:29,066 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:29,067 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:42,049 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:45,169 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:48,289 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:51,410 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:54,529 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:57,650 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:27:02,728 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 00:27:02,800 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:27:02,801 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:32:53,554 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:32:53,555 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:33:03,629 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:33:03,630 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:35,850 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:35,851 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:45,924 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:45,924 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:56,007 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:56,007 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:46:06,079 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:46:06,080 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:50:42,522 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:50:42,523 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:50:52,593 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:50:52,593 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:51:02,664 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:51:02,665 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:51:12,747 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:51:12,748 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:52:49,794 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:52:49,795 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:52:59,879 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:52:59,879 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:54:44,405 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:54:44,405 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:54:54,483 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:54:54,483 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:55:04,566 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:55:04,567 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:57:51,193 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:57:51,194 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:01,276 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:01,276 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:11,360 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:11,361 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:21,437 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:21,437 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:41,589 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 00:59:56,491 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:59:56,491 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:00:06,573 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:00:06,573 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:30,914 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:30,915 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:40,998 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:40,999 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:51,065 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:51,066 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:08:54,327 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:08:54,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:09:04,435 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:09:04,436 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:09:14,519 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:09:14,520 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:17:52,521 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 01:17:52,591 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:17:52,592 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:02,675 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:02,675 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:12,742 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:12,742 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:22,825 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:22,826 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:21:16,623 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:21:16,623 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:21:26,698 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:21:26,699 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:24:54,988 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:24:54,989 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:25:05,071 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:25:05,072 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:25:15,145 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:25:15,146 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:16,695 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:16,696 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:26,767 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:26,767 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:36,845 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:36,845 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:58:43,665 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 02:40:26,736 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:26,737 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:40:36,808 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:36,809 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:40:46,891 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:46,891 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:58:46,357 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 03:37:30,578 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:30,579 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:37:40,660 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:40,661 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:37:50,723 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:50,724 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:38:33,085 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:38:33,087 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:38:43,194 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:38:43,195 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:35,757 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:35,757 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:45,841 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:45,841 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:55,916 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:55,917 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:40:06,000 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:40:06,001 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:49:38,699 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:49:38,699 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:39,386 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:39,387 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:49,458 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:49,459 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:59,543 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:59,543 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:56:41,911 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:56:41,911 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:56:52,004 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:56:52,004 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:57:02,103 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:57:02,103 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:57:12,239 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:57:12,239 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:58:44,314 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:58:44,314 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:58:54,396 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:58:54,397 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:59:14,494 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 04:13:38,624 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:38,625 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:13:48,695 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:48,696 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:13:58,779 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:58,780 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:14:08,863 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:14:08,865 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:59:24,635 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 05:03:57,431 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:03:57,431 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:04:07,539 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:04:07,539 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:04:17,649 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:04:17,650 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:01,124 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:01,124 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:11,224 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:11,224 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:21,307 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:21,307 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:00,327 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:00,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:10,424 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:10,424 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:20,507 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:20,508 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:35:42,096 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:35:42,097 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:35:52,179 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:35:52,180 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:36:02,262 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:36:02,263 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:36:12,335 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:36:12,335 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:04,756 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:04,756 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:14,856 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:14,856 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:24,940 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:24,941 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:01,121 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:01,121 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:11,211 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:11,211 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:21,302 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:21,302 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:31,389 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:31,389 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:59:25,576 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 06:17:06,225 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:06,226 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:17:16,326 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:16,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:17:26,413 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:26,414 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:05,881 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:05,881 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:15,959 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:15,960 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:26,050 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:26,051 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:59:30,737 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 07:35:10,026 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:35:10,027 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:35:20,099 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:35:20,099 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:36:10,698 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:36:10,698 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:36:20,781 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:36:20,782 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:44:17,873 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 07:59:33,486 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 08:00:15,237 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:15,237 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:00:25,320 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:25,321 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:00:35,396 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:35,396 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:17,036 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:17,037 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:27,119 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:27,120 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:37,220 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:37,220 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:47,309 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:47,310 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:13:02,385 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 08:13:07,464 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 08:59:34,557 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 09:59:41,950 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 11:11:52,107 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 11:43:43,066 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:43:43,067 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:43:53,148 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:43:53,149 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:44:03,219 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:44:03,219 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:44:13,301 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:44:13,301 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 12:11:53,698 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 13:12:00,444 : DEBUG : __main__ : hourly energy function run 
