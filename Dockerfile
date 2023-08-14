@@ -9,5 +9,5 @@ RUN pip install -r requirements.txt
 #to COPY the remote file at working directory in container
 COPY hanport_v11.py .
 # Now the structure looks like this '/app/src/test.py'
-CMD ["python","./test.py"]
+CMD ["python","./hanport_v11.py"]
 
