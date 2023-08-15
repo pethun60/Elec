@@ -300,3 +300,9 @@
 2023-08-14 11:44:13,301 : ERROR : __main__ : error in network will wait 10s
 2023-08-14 12:11:53,698 : DEBUG : __main__ : hourly energy function run 
 2023-08-14 13:12:00,444 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 12:31:52,460 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 12:54:35,794 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-15 13:31:54,351 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 14:32:00,485 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 15:32:06,982 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 16:32:13,836 : DEBUG : __main__ : hourly energy function run 
