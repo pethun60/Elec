@@ -79,7 +79,7 @@ def mqtt_save():
     #f.close()
 
 def hourly_energy():
-    #save energy consumption every hour
+    #save energy consumption every hour changed raspberry
     OldEnergyCounter=NewEnergyCounter
     NewEnergyCounter=active_energy_out
     HourEnergyConsumption=NewEnergyCounter-OldEnergyCounter
