@@ -84,7 +84,8 @@ def hourly_energy():
     NewEnergyCounter=active_energy_out
     HourEnergyConsumption=NewEnergyCounter-OldEnergyCounter
     logger.debug('hourly energy function run ')
-    print("hourly energy output")
+    logger.debug(HourEnergyConsumption)
+    print("hourly energy output ", HourEnergyConsumption)
 
 # -------------------------------------------------
 
