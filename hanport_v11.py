@@ -80,7 +80,9 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
-
+    OldEnergyCounter=NewEnergyCounter
+    NewEnergyCounter=active_energy_out
+    HourEnergyConsumption=NewEnergyCounter-OldEnergyCounter
     logger.debug('hourly energy function run ')
     print("hourly energy output")
 
