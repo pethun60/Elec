@@ -80,12 +80,17 @@ def mqtt_save():
 
 def hourly_energy():
     #save energy consumption every hour
+    global NewEnergyCounter
+    global HourEnergyConsumption
     OldEnergyCounter=NewEnergyCounter
     NewEnergyCounter=active_energy_out
-    HourEnergyConsumption=NewEnergyCounter-OldEnergyCounter
-    logger.debug('hourly energy function run ')
-    logger.debug(HourEnergyConsumption)
-    print("hourly energy output ", HourEnergyConsumption)
+    if float(OldEnergyCounter)>0: 
+        HourEnergyConsumption=float(NewEnergyCounter)-float(OldEnergyCounter)
+    logger.debug(f'hourly energy function run {active_energy_out}')
+    logger.debug(f'Newenergycounter {NewEnergyCounter}')
+    logger.debug(f'oldenergycounter {OldEnergyCounter}')
+    logger.debug(f'{HourEnergyConsumption}')
+    print("hourly energy output ")
 
 # -------------------------------------------------
 
@@ -105,11 +110,13 @@ if __name__ == '__main__':
     xonxoff=False,
     )
     read_lines=30
-
+    
+    NewEnergyCounter='0'
+    HourEnergyConsumption=0.0
     #scheduler = sched.scheduler(time.time, time.sleep)
-    schedule.every(2).minutes.do(hourly_energy)
-    NewEnergyCounter=0
-   
+    schedule.every(60).minutes.do(hourly_energy)
+  
+
 
     # serial_port.open()
     while True:
@@ -133,13 +140,13 @@ if __name__ == '__main__':
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_out=read_date.decode("utf-8")
-                    #print ('active energiuttag  mätare',active_energy_out,valuetype)
+                    print ('active energiuttag  mätare',active_energy_out,valuetype)
                 if i==4:
                     #print("rad 4")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_in=read_date.decode("utf-8")
-                    #print ('active energi inmatning mätare', active_energy_in,valuetype)
+                    print ('active energi inmatning mätare', active_energy_in,valuetype)
                 if i==5:
                     #print("rad 5")
                     read_date = elec_data[pos_start:pos_end]
@@ -211,13 +218,13 @@ if __name__ == '__main__':
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3active_energy_in=read_date.decode("utf-8")
-                    print ('L3 Aktive Effekt in', L3active_energy_in,valuetype)
+                    #print ('L3 Aktive Effekt in', L3active_energy_in,valuetype)
                 if i==17:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1reactive_energy_out=read_date.decode("utf-8")
-                    print ('L1 reaktiv Effekt uttag', L1reactive_energy_out,valuetype)
+                    #print ('L1 reaktiv Effekt uttag', L1reactive_energy_out,valuetype)
                 if i==18:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
@@ -287,9 +294,7 @@ if __name__ == '__main__':
                 print("forloop finished")
             mqtt_save()
             schedule.run_pending()
-            #scheduler.enter(60, 1, hourly_energy, ())
-            # test code
-            #scheduler.run()
+
 
     #mqtt_save('effektutag',active_energy_out_curr)
     #mqtt_save('SpänningL1',L1voltage)
