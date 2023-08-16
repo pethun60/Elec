@@ -1,364 +1,417 @@
-2023-05-19 14:30:42,302 : ERROR : __main__ : error in network will wait 10s
-2023-05-19 14:39:39,077 : ERROR : __main__ : error in network will wait 10s
-2023-05-19 18:04:38,995 : ERROR : __main__ : error in network will wait 10s
-2023-05-20 05:21:13,723 : ERROR : __main__ : error in network will wait 10s
-2023-05-21 04:50:58,356 : ERROR : __main__ : error in network will wait 10s
-2023-05-21 08:32:20,349 : ERROR : __main__ : error in network will wait 10s
-2023-05-22 04:02:58,535 : ERROR : __main__ : error in network will wait 10s
-2023-05-22 04:04:20,637 : ERROR : __main__ : error in network will wait 10s
-2023-05-22 19:46:44,655 : ERROR : __main__ : error in network will wait 10s
-2023-05-23 19:12:47,579 : ERROR : __main__ : error in network will wait 10s
-2023-05-23 19:18:25,168 : ERROR : __main__ : error in network will wait 10s
-2023-05-23 19:19:27,963 : ERROR : __main__ : error in network will wait 10s
-2023-05-23 19:19:38,052 : ERROR : __main__ : error in network will wait 10s
-2023-05-24 10:40:35,077 : ERROR : __main__ : error in network will wait 10s
-2023-05-24 10:43:49,293 : ERROR : __main__ : error in network will wait 10s
-2023-05-25 06:24:40,021 : ERROR : __main__ : error in network will wait 10s
-2023-05-25 10:32:00,820 : ERROR : __main__ : error in network will wait 10s
-2023-05-25 14:28:02,556 : ERROR : __main__ : error in network will wait 10s
-2023-05-25 18:29:14,046 : ERROR : __main__ : error in network will wait 10s
-2023-05-25 22:20:42,355 : ERROR : __main__ : error in network will wait 10s
-2023-05-26 09:49:39,513 : ERROR : __main__ : error in network will wait 10s
-2023-05-26 13:47:05,887 : ERROR : __main__ : error in network will wait 10s
-2023-05-26 13:49:47,736 : ERROR : __main__ : error in network will wait 10s
-2023-05-27 12:44:41,749 : ERROR : __main__ : error in network will wait 10s
-2023-05-27 12:45:22,188 : ERROR : __main__ : error in network will wait 10s
-2023-05-27 12:45:32,272 : ERROR : __main__ : error in network will wait 10s
-2023-05-27 12:49:12,002 : ERROR : __main__ : error in network will wait 10s
-2023-05-28 04:18:40,849 : ERROR : __main__ : error in network will wait 10s
-2023-05-28 04:25:32,749 : ERROR : __main__ : error in network will wait 10s
-2023-05-29 03:39:11,699 : ERROR : __main__ : error in network will wait 10s
-2023-05-29 06:05:48,980 : ERROR : __main__ : error in network will wait 10s
-2023-06-01 12:48:18,646 : ERROR : __main__ : error in network will wait 10s
-2023-06-01 16:46:27,355 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:46:16,269 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:46:26,344 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:47:44,450 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:49:27,607 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:51:23,101 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 14:52:27,792 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 22:03:08,079 : ERROR : __main__ : error in network will wait 10s
-2023-06-03 22:03:18,169 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 02:28:05,689 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 10:05:42,815 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 10:07:27,852 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 11:54:55,555 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 13:55:23,378 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 13:57:27,880 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 13:58:19,556 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 13:59:49,256 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 14:00:55,117 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 14:02:07,104 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 14:04:35,214 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 14:37:47,376 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 16:12:44,089 : ERROR : __main__ : error in network will wait 10s
-2023-06-04 17:53:19,870 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 11:19:19,317 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 13:23:05,285 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 13:24:36,588 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 13:25:06,902 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 13:26:41,895 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 13:27:34,342 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 17:19:27,579 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 17:21:21,860 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 17:21:52,181 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 17:24:08,749 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 21:22:55,744 : ERROR : __main__ : error in network will wait 10s
-2023-06-05 21:28:01,051 : ERROR : __main__ : error in network will wait 10s
-2023-06-06 01:14:22,928 : ERROR : __main__ : error in network will wait 10s
-2023-06-06 17:30:07,689 : ERROR : __main__ : error in network will wait 10s
-2023-06-06 18:19:19,653 : ERROR : __main__ : error in network will wait 10s
-2023-06-07 09:23:41,111 : ERROR : __main__ : error in network will wait 10s
-2023-06-08 15:20:42,027 : ERROR : __main__ : error in network will wait 10s
-2023-06-08 15:20:52,129 : ERROR : __main__ : error in network will wait 10s
-2023-06-08 16:32:45,738 : ERROR : __main__ : error in network will wait 10s
-2023-06-09 16:00:48,737 : ERROR : __main__ : error in network will wait 10s
-2023-06-09 16:00:58,813 : ERROR : __main__ : error in network will wait 10s
-2023-06-09 19:48:23,540 : ERROR : __main__ : error in network will wait 10s
-2023-06-10 11:09:09,105 : ERROR : __main__ : error in network will wait 10s
-2023-06-10 11:09:44,750 : ERROR : __main__ : error in network will wait 10s
-2023-06-10 12:58:51,509 : ERROR : __main__ : error in network will wait 10s
-2023-06-10 19:04:43,026 : ERROR : __main__ : error in network will wait 10s
-2023-06-11 05:44:17,428 : ERROR : __main__ : error in network will wait 10s
-2023-06-11 05:49:11,098 : ERROR : __main__ : error in network will wait 10s
-2023-06-11 05:51:02,138 : ERROR : __main__ : error in network will wait 10s
-2023-06-11 23:17:23,876 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:16:00,889 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:25:19,041 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:27:40,315 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:27:50,401 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:29:17,245 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:29:27,318 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:34:12,888 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:35:15,159 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:35:55,488 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:36:56,100 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:37:06,176 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:38:07,711 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:38:17,775 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:40:20,842 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:42:34,187 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:43:14,539 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:44:46,386 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:44:56,470 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:45:36,821 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:47:39,893 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:48:00,068 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:48:10,141 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:49:10,687 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:49:20,750 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:50:41,561 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:51:32,136 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:51:42,207 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:51:52,284 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:52:02,367 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 00:52:32,630 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 03:04:06,109 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 21:58:55,106 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 21:59:05,200 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 21:59:15,290 : ERROR : __main__ : error in network will wait 10s
-2023-06-12 21:59:25,363 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 01:59:27,164 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 05:51:55,560 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 09:49:00,449 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 09:53:15,780 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 09:54:07,668 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 09:54:17,748 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:08:39,361 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:15:35,201 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:17:27,316 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:17:48,471 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:24:26,385 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:30:13,557 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:35:28,566 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:45:06,995 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:45:58,423 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 11:51:31,509 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 12:01:42,478 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 12:07:45,322 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 12:09:16,345 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 12:16:43,572 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:12:17,562 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:12:27,637 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:33:19,839 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:34:20,442 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:35:43,441 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:36:54,156 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:38:25,314 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:40:06,353 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:43:33,636 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 13:55:21,907 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 15:06:47,515 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 15:10:39,707 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 15:13:17,343 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 22:10:31,999 : ERROR : __main__ : error in network will wait 10s
-2023-06-13 22:43:54,351 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 08:53:14,059 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 09:19:25,944 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 09:36:19,363 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 10:02:03,051 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 10:02:13,125 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 10:02:23,193 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 11:53:10,331 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 14:00:38,373 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 14:02:29,418 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 14:30:03,330 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 14:30:13,410 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 15:08:52,948 : ERROR : __main__ : error in network will wait 10s
-2023-06-14 15:09:13,122 : ERROR : __main__ : error in network will wait 10s
-2023-06-15 12:33:59,620 : ERROR : __main__ : error in network will wait 10s
-2023-06-15 19:14:38,268 : ERROR : __main__ : error in network will wait 10s
-2023-06-15 23:02:17,105 : ERROR : __main__ : error in network will wait 10s
-2023-06-16 05:09:40,705 : ERROR : __main__ : error in network will wait 10s
-2023-06-16 06:50:41,317 : ERROR : __main__ : error in network will wait 10s
-2023-06-16 06:50:51,422 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 19:21:15,984 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 19:21:26,050 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 19:21:36,125 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 19:21:46,193 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 19:22:11,510 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 20:23:47,105 : ERROR : __main__ : error in network will wait 10s
-2023-06-17 20:23:57,196 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 09:18:22,521 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 09:18:32,604 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 09:41:13,992 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 10:28:27,914 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 10:39:18,391 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 10:47:47,520 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 10:51:09,497 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 11:43:25,007 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 11:58:12,165 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 12:48:29,186 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 12:48:39,259 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 12:54:45,007 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 13:02:16,371 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 13:03:59,412 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 13:15:13,973 : ERROR : __main__ : error in network will wait 10s
-2023-06-18 13:17:46,498 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 12:06:50,042 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 12:27:33,253 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 12:36:32,425 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 12:59:33,076 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 13:10:53,530 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 13:11:03,606 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 13:14:47,802 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 13:20:24,992 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 13:53:26,992 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 14:15:20,372 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 14:47:30,637 : ERROR : __main__ : error in network will wait 10s
-2023-06-19 14:48:02,525 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 00:51:25,091 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:13:50,422 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:34:16,668 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:34:36,846 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:42:01,115 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:44:22,512 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 05:44:42,680 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 07:15:45,837 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 07:30:18,126 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 07:30:38,330 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 07:57:36,231 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:01:08,230 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:01:58,688 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:05:00,476 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:05:15,631 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:07:06,728 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 08:07:16,817 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:28:15,130 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:30:08,143 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:30:18,227 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:46:04,238 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:46:14,316 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:50:41,250 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:50:51,323 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:53:34,098 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:53:44,169 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:54:29,592 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:54:39,676 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:55:30,111 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:55:40,195 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 09:56:10,447 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 10:11:51,578 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 10:24:24,042 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 10:34:03,851 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 10:38:20,419 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 10:48:50,593 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 11:19:40,021 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 11:37:57,279 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 11:46:23,008 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 11:55:40,577 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:00:54,412 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:03:28,171 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:06:10,690 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:10:17,235 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:30:18,557 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:56:54,875 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 12:57:04,944 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 13:02:38,289 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 14:22:51,388 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 14:27:55,157 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 14:52:13,694 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 14:52:23,786 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 14:55:05,252 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:06:43,912 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:53:46,624 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:54:06,899 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:55:07,520 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:56:39,368 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:58:50,608 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 15:59:00,686 : ERROR : __main__ : error in network will wait 10s
-2023-06-20 21:29:59,890 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 02:56:35,477 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 02:57:18,168 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 03:04:46,139 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 04:44:26,325 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 04:44:36,403 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 06:47:18,539 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 09:24:15,631 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 09:24:25,716 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 09:24:35,829 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 09:24:45,918 : ERROR : __main__ : error in network will wait 10s
-2023-06-21 18:27:00,941 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 11:50:51,195 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 11:51:01,266 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 12:47:06,475 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 13:36:11,726 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 13:56:18,770 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 13:59:41,788 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:03:24,128 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:03:34,203 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:04:54,937 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:08:46,935 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:08:57,013 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:09:17,181 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:09:58,804 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:19:34,911 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:43:54,522 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 15:44:24,764 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:16:39,895 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:19:43,442 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:22:55,978 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:26:28,719 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:31:22,457 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:34:04,816 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 16:34:14,893 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:22:02,270 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:27:16,424 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:49:32,875 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:57:29,192 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:58:29,793 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:58:49,981 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 17:59:10,159 : ERROR : __main__ : error in network will wait 10s
-2023-06-22 18:10:29,248 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:15:53,045 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:17:57,226 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:25:34,374 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:26:14,716 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:26:45,000 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:26:55,083 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:35:12,771 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:35:22,858 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:52:58,996 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:53:39,361 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:54:39,895 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 09:54:49,979 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 17:06:52,153 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 17:07:02,226 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:01:49,356 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:04:11,581 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:04:21,642 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:04:31,717 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:06:32,859 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:30:31,282 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:37:16,393 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:37:26,476 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 21:39:19,297 : ERROR : __main__ : error in network will wait 10s
-2023-06-23 22:46:19,080 : ERROR : __main__ : error in network will wait 10s
-2023-06-24 06:27:04,569 : ERROR : __main__ : error in network will wait 10s
-2023-06-24 06:46:29,695 : ERROR : __main__ : error in network will wait 10s
-2023-06-24 07:50:32,634 : ERROR : __main__ : error in network will wait 10s
-2023-06-24 09:20:23,742 : ERROR : __main__ : error in network will wait 10s
-2023-06-24 11:02:24,441 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:19:58,512 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:08,710 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:18,878 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:29,020 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:39,217 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:49,386 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:20:59,456 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:21:09,534 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:21:19,602 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:21:29,680 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:21:39,758 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 17:21:49,836 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:31:43,331 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:31:53,410 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:03,489 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:13,568 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:23,636 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:33,705 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:43,783 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:32:53,862 : ERROR : __main__ : error in network will wait 10s
-2023-07-28 19:33:03,941 : ERROR : __main__ : error in network will wait 10s
-2023-07-29 10:12:48,900 : ERROR : __main__ : error in network will wait 10s
-2023-07-29 10:12:59,097 : ERROR : __main__ : error in network will wait 10s
+2023-08-12 13:52:40,342 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 13:53:41,174 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 13:54:44,796 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 14:54:59,526 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 15:55:03,236 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 16:47:05,168 : DEBUG : __main__ : timeout('timed out')
+2023-08-12 16:55:03,512 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 17:55:09,839 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 18:45:52,524 : DEBUG : __main__ : timeout('timed out')
+2023-08-12 18:55:12,355 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 19:55:17,850 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 20:55:19,881 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 21:55:26,744 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 22:55:36,017 : DEBUG : __main__ : hourly energy function run 
+2023-08-12 23:55:41,901 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 00:55:49,108 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 01:55:53,529 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 02:55:54,845 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 03:55:57,442 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 04:56:04,033 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 05:56:13,551 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 06:56:22,111 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 07:56:24,282 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 08:56:24,635 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 09:56:27,782 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 10:56:35,984 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 11:52:01,953 : DEBUG : __main__ : timeout('timed out')
+2023-08-13 11:56:43,027 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 12:56:49,274 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 13:03:58,278 : DEBUG : __main__ : timeout('timed out')
+2023-08-13 13:56:55,659 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 14:57:02,506 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 15:57:08,329 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 16:57:16,930 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 17:57:18,206 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 18:57:25,292 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 19:57:30,013 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 20:57:38,719 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 21:57:42,119 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 22:57:44,959 : DEBUG : __main__ : hourly energy function run 
+2023-08-13 23:57:54,675 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 00:24:48,079 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 00:24:48,143 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:24:48,143 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:24:58,225 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:24:58,226 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:08,332 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:08,333 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:18,415 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:18,415 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:28,500 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:28,501 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:38,575 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:38,575 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:48,657 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:48,658 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:25:58,766 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:25:58,767 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:08,877 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:08,877 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:18,970 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:18,970 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:29,066 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:26:29,067 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:26:42,049 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:45,169 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:48,289 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:51,410 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:54,529 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:26:57,650 : DEBUG : __main__ : OSError(113, 'No route to host')
+2023-08-14 00:27:02,728 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 00:27:02,800 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:27:02,801 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:32:53,554 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:32:53,555 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:33:03,629 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:33:03,630 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:35,850 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:35,851 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:45,924 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:45,924 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:45:56,007 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:45:56,007 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:46:06,079 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:46:06,080 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:50:42,522 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:50:42,523 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:50:52,593 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:50:52,593 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:51:02,664 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:51:02,665 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:51:12,747 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:51:12,748 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:52:49,794 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:52:49,795 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:52:59,879 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:52:59,879 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:54:44,405 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:54:44,405 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:54:54,483 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:54:54,483 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:55:04,566 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:55:04,567 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:57:51,193 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:57:51,194 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:01,276 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:01,276 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:11,360 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:11,361 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:21,437 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:58:21,437 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 00:58:41,589 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 00:59:56,491 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 00:59:56,491 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:00:06,573 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:00:06,573 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:30,914 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:30,915 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:40,998 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:40,999 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:06:51,065 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:06:51,066 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:08:54,327 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:08:54,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:09:04,435 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:09:04,436 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:09:14,519 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:09:14,520 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:17:52,521 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 01:17:52,591 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:17:52,592 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:02,675 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:02,675 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:12,742 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:12,742 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:18:22,825 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:18:22,826 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:21:16,623 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:21:16,623 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:21:26,698 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:21:26,699 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:24:54,988 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:24:54,989 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:25:05,071 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:25:05,072 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:25:15,145 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:25:15,146 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:16,695 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:16,696 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:26,767 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:26,767 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:26:36,845 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 01:26:36,845 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 01:58:43,665 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 02:40:26,736 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:26,737 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:40:36,808 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:36,809 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:40:46,891 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 02:40:46,891 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 02:58:46,357 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 03:37:30,578 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:30,579 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:37:40,660 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:40,661 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:37:50,723 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:37:50,724 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:38:33,085 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:38:33,087 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:38:43,194 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:38:43,195 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:35,757 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:35,757 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:45,841 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:45,841 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:39:55,916 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:39:55,917 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:40:06,000 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:40:06,001 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:49:38,699 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:49:38,699 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:39,386 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:39,387 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:49,458 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:49,459 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:55:59,543 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:55:59,543 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:56:41,911 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:56:41,911 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:56:52,004 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:56:52,004 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:57:02,103 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:57:02,103 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:57:12,239 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:57:12,239 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:58:44,314 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:58:44,314 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:58:54,396 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 03:58:54,397 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 03:59:14,494 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 04:13:38,624 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:38,625 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:13:48,695 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:48,696 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:13:58,779 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:13:58,780 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:14:08,863 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 04:14:08,865 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 04:59:24,635 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 05:03:57,431 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:03:57,431 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:04:07,539 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:04:07,539 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:04:17,649 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:04:17,650 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:01,124 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:01,124 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:11,224 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:11,224 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:10:21,307 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:10:21,307 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:00,327 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:00,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:10,424 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:10,424 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:14:20,507 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:14:20,508 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:35:42,096 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:35:42,097 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:35:52,179 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:35:52,180 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:36:02,262 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:36:02,263 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:36:12,335 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:36:12,335 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:04,756 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:04,756 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:14,856 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:14,856 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:47:24,940 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:47:24,941 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:01,121 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:01,121 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:11,211 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:11,211 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:21,302 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:21,302 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:52:31,389 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 05:52:31,389 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 05:59:25,576 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 06:17:06,225 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:06,226 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:17:16,326 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:16,327 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:17:26,413 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:17:26,414 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:05,881 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:05,881 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:15,959 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:15,960 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:42:26,050 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 06:42:26,051 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 06:59:30,737 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 07:35:10,026 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:35:10,027 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:35:20,099 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:35:20,099 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:36:10,698 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:36:10,698 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:36:20,781 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 07:36:20,782 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 07:44:17,873 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 07:59:33,486 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 08:00:15,237 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:15,237 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:00:25,320 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:25,321 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:00:35,396 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:00:35,396 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:17,036 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:17,037 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:27,119 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:27,120 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:37,220 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:37,220 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:12:47,309 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 08:12:47,310 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 08:13:02,385 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 08:13:07,464 : DEBUG : __main__ : timeout('timed out')
+2023-08-14 08:59:34,557 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 09:59:41,950 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 11:11:52,107 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 11:43:43,066 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:43:43,067 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:43:53,148 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:43:53,149 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:44:03,219 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:44:03,219 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 11:44:13,301 : DEBUG : __main__ : OSError(101, 'Network is unreachable')
+2023-08-14 11:44:13,301 : ERROR : __main__ : error in network will wait 10s
+2023-08-14 12:11:53,698 : DEBUG : __main__ : hourly energy function run 
+2023-08-14 13:12:00,444 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 12:31:52,460 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 12:54:35,794 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-15 13:31:54,351 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 14:32:00,485 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 15:32:06,982 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 16:32:13,836 : DEBUG : __main__ : hourly energy function run 
+2023-08-15 17:32:16,974 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:37:59,757 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:37:59,767 : DEBUG : __main__ : 0
+2023-08-16 11:45:06,074 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:45:06,077 : DEBUG : __main__ : 0
+2023-08-16 11:46:53,444 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:48:16,281 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:54:02,888 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:54:47,155 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 11:58:03,798 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:00:07,866 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:02:10,949 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:04:16,012 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:06:17,106 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:08:20,234 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:10:25,466 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:12:29,579 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:14:32,871 : DEBUG : __main__ : hourly energy function run 
+2023-08-16 12:17:54,118 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:18:49,914 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:27:25,597 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:29:26,846 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:33:35,318 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:37:04,623 : DEBUG : __main__ : hourly energy function run 0
+2023-08-16 12:45:23,478 : DEBUG : __main__ : hourly energy function run 00028297.230
+2023-08-16 12:45:33,566 : DEBUG : __main__ : hourly energy function run 00028297.232
+2023-08-16 12:45:43,686 : DEBUG : __main__ : hourly energy function run 00028297.234
+2023-08-16 12:45:53,820 : DEBUG : __main__ : hourly energy function run 00028297.236
+2023-08-16 12:46:03,942 : DEBUG : __main__ : hourly energy function run 00028297.238
+2023-08-16 12:46:14,078 : DEBUG : __main__ : hourly energy function run 00028297.240
+2023-08-16 12:46:24,218 : DEBUG : __main__ : hourly energy function run 00028297.242
+2023-08-16 12:46:34,363 : DEBUG : __main__ : hourly energy function run 00028297.244
+2023-08-16 12:46:44,511 : DEBUG : __main__ : hourly energy function run 00028297.246
+2023-08-16 12:46:54,653 : DEBUG : __main__ : hourly energy function run 00028297.249
+2023-08-16 12:56:24,277 : DEBUG : __main__ : hourly energy function run 00028297.393
+2023-08-16 12:58:28,636 : DEBUG : __main__ : hourly energy function run 00028297.416
+2023-08-16 13:25:23,561 : DEBUG : __main__ : hourly energy function run 00028297.712
+2023-08-16 13:25:23,563 : DEBUG : __main__ : Newenergycounter 00028297.712
+2023-08-16 13:25:23,564 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 13:27:24,714 : DEBUG : __main__ : hourly energy function run 00028297.733
+2023-08-16 13:27:24,715 : DEBUG : __main__ : Newenergycounter 00028297.733
+2023-08-16 13:27:24,717 : DEBUG : __main__ : oldenergycounter 00028297.712
+2023-08-16 13:29:25,920 : DEBUG : __main__ : hourly energy function run 00028297.754
+2023-08-16 13:29:25,921 : DEBUG : __main__ : Newenergycounter 00028297.754
+2023-08-16 13:29:25,922 : DEBUG : __main__ : oldenergycounter 00028297.733
+2023-08-16 13:31:30,090 : DEBUG : __main__ : hourly energy function run 00028297.772
+2023-08-16 13:31:30,092 : DEBUG : __main__ : Newenergycounter 00028297.772
+2023-08-16 13:31:30,092 : DEBUG : __main__ : oldenergycounter 00028297.754
+2023-08-16 13:33:33,372 : DEBUG : __main__ : hourly energy function run 00028297.792
+2023-08-16 13:33:33,374 : DEBUG : __main__ : Newenergycounter 00028297.792
+2023-08-16 13:33:33,375 : DEBUG : __main__ : oldenergycounter 00028297.772
+2023-08-16 13:35:35,383 : DEBUG : __main__ : hourly energy function run 00028297.812
+2023-08-16 13:35:35,384 : DEBUG : __main__ : Newenergycounter 00028297.812
+2023-08-16 13:35:35,385 : DEBUG : __main__ : oldenergycounter 00028297.792
+2023-08-16 13:37:36,771 : DEBUG : __main__ : hourly energy function run 00028297.834
+2023-08-16 13:37:36,772 : DEBUG : __main__ : Newenergycounter 00028297.834
+2023-08-16 13:37:36,773 : DEBUG : __main__ : oldenergycounter 00028297.812
+2023-08-16 13:39:41,039 : DEBUG : __main__ : hourly energy function run 00028297.855
+2023-08-16 13:39:41,040 : DEBUG : __main__ : Newenergycounter 00028297.855
+2023-08-16 13:39:41,041 : DEBUG : __main__ : oldenergycounter 00028297.834
+2023-08-16 13:41:47,131 : DEBUG : __main__ : hourly energy function run 00028297.877
+2023-08-16 13:41:47,133 : DEBUG : __main__ : Newenergycounter 00028297.877
+2023-08-16 13:41:47,134 : DEBUG : __main__ : oldenergycounter 00028297.855
+2023-08-16 13:46:03,752 : DEBUG : __main__ : hourly energy function run 00028297.927
+2023-08-16 13:46:03,754 : DEBUG : __main__ : Newenergycounter 00028297.927
+2023-08-16 13:46:03,755 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 13:46:03,756 : DEBUG : __main__ : HourEnergyConsumption 
+2023-08-16 13:57:41,492 : DEBUG : __main__ : hourly energy function run 00028298.051
+2023-08-16 13:57:41,493 : DEBUG : __main__ : Newenergycounter 00028298.051
+2023-08-16 13:57:41,494 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 13:57:41,495 : DEBUG : __main__ : 28298.051
+2023-08-16 13:59:44,526 : DEBUG : __main__ : hourly energy function run 00028298.077
+2023-08-16 13:59:44,527 : DEBUG : __main__ : Newenergycounter 00028298.077
+2023-08-16 13:59:44,528 : DEBUG : __main__ : oldenergycounter 00028298.051
+2023-08-16 13:59:44,530 : DEBUG : __main__ : 0.02600000000165892
+2023-08-16 14:01:47,671 : DEBUG : __main__ : hourly energy function run 00028298.102
+2023-08-16 14:01:47,672 : DEBUG : __main__ : Newenergycounter 00028298.102
+2023-08-16 14:01:47,673 : DEBUG : __main__ : oldenergycounter 00028298.077
+2023-08-16 14:01:47,674 : DEBUG : __main__ : 0.024999999997817213
+2023-08-16 14:03:51,066 : DEBUG : __main__ : hourly energy function run 00028298.128
+2023-08-16 14:03:51,067 : DEBUG : __main__ : Newenergycounter 00028298.128
+2023-08-16 14:03:51,068 : DEBUG : __main__ : oldenergycounter 00028298.102
+2023-08-16 14:03:51,070 : DEBUG : __main__ : 0.02600000000165892
+2023-08-16 14:05:53,211 : DEBUG : __main__ : hourly energy function run 00028298.151
+2023-08-16 14:05:53,212 : DEBUG : __main__ : Newenergycounter 00028298.151
+2023-08-16 14:05:53,213 : DEBUG : __main__ : oldenergycounter 00028298.128
+2023-08-16 14:05:53,214 : DEBUG : __main__ : 0.023000000001047738
+2023-08-16 14:14:05,151 : DEBUG : __main__ : hourly energy function run 00028298.253
+2023-08-16 14:14:05,152 : DEBUG : __main__ : Newenergycounter 00028298.253
+2023-08-16 14:14:05,153 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 14:19:24,539 : DEBUG : __main__ : hourly energy function run 00028298.321
+2023-08-16 14:19:24,540 : DEBUG : __main__ : Newenergycounter 00028298.321
+2023-08-16 14:19:24,542 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 14:22:52,475 : DEBUG : __main__ : hourly energy function run 00028298.363
+2023-08-16 14:22:52,476 : DEBUG : __main__ : Newenergycounter 00028298.363
+2023-08-16 14:22:52,477 : DEBUG : __main__ : oldenergycounter 0
+2023-08-16 14:22:52,478 : DEBUG : __main__ : 0.0
+2023-08-16 14:24:55,601 : DEBUG : __main__ : hourly energy function run 00028298.387
+2023-08-16 14:24:55,603 : DEBUG : __main__ : Newenergycounter 00028298.387
+2023-08-16 14:24:55,603 : DEBUG : __main__ : oldenergycounter 00028298.363
+2023-08-16 14:24:55,604 : DEBUG : __main__ : 0.023999999997613486
+2023-08-16 14:26:57,994 : DEBUG : __main__ : hourly energy function run 00028298.410
+2023-08-16 14:26:57,996 : DEBUG : __main__ : Newenergycounter 00028298.410
+2023-08-16 14:26:57,997 : DEBUG : __main__ : oldenergycounter 00028298.387
+2023-08-16 14:26:57,997 : DEBUG : __main__ : 0.023000000001047738
+2023-08-16 14:29:00,114 : DEBUG : __main__ : hourly energy function run 00028298.436
+2023-08-16 14:29:00,115 : DEBUG : __main__ : Newenergycounter 00028298.436
+2023-08-16 14:29:00,116 : DEBUG : __main__ : oldenergycounter 00028298.410
+2023-08-16 14:29:00,117 : DEBUG : __main__ : 0.02600000000165892

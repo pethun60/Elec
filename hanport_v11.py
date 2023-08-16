@@ -5,8 +5,10 @@ import logging
 import time
 import socket
 import errno
+import schedule
 
-logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.ERROR)
+
+logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -25,7 +27,7 @@ def mqtt_save():
         if rc==0:
             client.connected_flag=True #set flag
             print("connected OK")
-            logger.debug('connected OK to mqtt broker')
+            #logger.debug('connected OK to mqtt broker')
         else:
             print("Bad connection Returned code=",rc)
             logger.debug('Failed to connect to mqtt broker')
@@ -45,7 +47,7 @@ def mqtt_save():
     client.username_pw_set(user, password=password)
     client.loop_start()
     print('connecting to broker' + input_host)
-    logger.debug('connecting to broker' + input_host)
+    #logger.debug('connecting to broker' + input_host)
     client.connect(input_host,1883,60)
     while not client.connected_flag: #wait in loop
         print("In wait mqtt loop")
@@ -70,12 +72,25 @@ def mqtt_save():
     input_topic="/el/tobo/"+"FasströmL3"
     client.publish(input_topic,L3ampere)
     client.disconnect();
-    logger.debug('all mqtt_save value saved')
+    #logger.debug('all mqtt_save value saved')
     #f= open("temp_RH.txt","a+")
     #f.write("mqtt value" + mqtt_value + "\n")
     #f.write(input_topic +"\n")
     #f.close()
 
+def hourly_energy():
+    #save energy consumption every hour
+    global NewEnergyCounter
+    global HourEnergyConsumption
+    OldEnergyCounter=NewEnergyCounter
+    NewEnergyCounter=active_energy_out
+    if float(OldEnergyCounter)>0: 
+        HourEnergyConsumption=float(NewEnergyCounter)-float(OldEnergyCounter)
+    logger.debug(f'hourly energy function run {active_energy_out}')
+    logger.debug(f'Newenergycounter {NewEnergyCounter}')
+    logger.debug(f'oldenergycounter {OldEnergyCounter}')
+    logger.debug(f'{HourEnergyConsumption}')
+    print("hourly energy output ")
 
 # -------------------------------------------------
 
@@ -95,6 +110,14 @@ if __name__ == '__main__':
     xonxoff=False,
     )
     read_lines=30
+    
+    NewEnergyCounter='0'
+    HourEnergyConsumption=0.0
+    #scheduler = sched.scheduler(time.time, time.sleep)
+    schedule.every(60).minutes.do(hourly_energy)
+  
+
+
     # serial_port.open()
     while True:
         try: 
@@ -108,12 +131,12 @@ if __name__ == '__main__':
                 pos_end=elec_data.find('*'.encode())
                 pos_type=elec_data.find(')'.encode())
                 if i==2:
-                    print("rad 2")
+                    #print("rad 2")
                     read_date = elec_data[10:22]
                     datevalue=read_date.decode("utf-8")
-                    print ('date', datevalue)
+                    #print ('date', datevalue)
                 if i==3:
-                    print("startpos", pos_start)
+                    #print("startpos", pos_start)
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_out=read_date.decode("utf-8")
@@ -129,147 +152,150 @@ if __name__ == '__main__':
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     reactive_energy_out=read_date.decode("utf-8")
-                    print ('reactive energi uttag', reactive_energy_out,valuetype)
+                    #print ('reactive energi uttag', reactive_energy_out,valuetype)
                 if i==6:
                     #print("rad 6")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     reactive_energi_in=read_date.decode("utf-8")
-                    print ('reactive energi inmatning', reactive_energi_in,valuetype )
+                    #print ('reactive energi inmatning', reactive_energi_in,valuetype )
                 if i==7:
                     #print("rad 7aktiv")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_out_curr=read_date.decode("utf-8")
-                    print ('aktiv effekt uttag', active_energy_out_curr,valuetype)
+                    #print ('aktiv effekt uttag', active_energy_out_curr,valuetype)
                 if i==8:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_in_curr=read_date.decode("utf-8")
-                    print ('aktiv effekt inmatning', active_energy_in_curr,valuetype)
+                    #print ('aktiv effekt inmatning', active_energy_in_curr,valuetype)
                 if i==9:
                     #print("rad 7aktiv")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     reactive_energy_out_curr=read_date.decode("utf-8")
-                    print ('reaktiv effekt uttag', reactive_energy_out_curr,valuetype)
+                    #print ('reaktiv effekt uttag', reactive_energy_out_curr,valuetype)
                 if i==10:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     reactive_energy_in_curr=read_date.decode("utf-8")
-                    print ('reaktiv effekt inmatning', reactive_energy_in_curr,valuetype)
+                    #print ('reaktiv effekt inmatning', reactive_energy_in_curr,valuetype)
                 if i==11:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1active_energy_out=read_date.decode("utf-8")
-                    print ('L1 Aktiv Effekt uttag', L1active_energy_out,valuetype)
+                    #print ('L1 Aktiv Effekt uttag', L1active_energy_out,valuetype)
                 if i==12:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1active_energy_in=read_date.decode("utf-8")
-                    print ('L1 Aktive Effekt in', L1active_energy_in,valuetype)
+                    #print ('L1 Aktive Effekt in', L1active_energy_in,valuetype)
                 if i==13:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2active_energy_out=read_date.decode("utf-8")
-                    print ('L2 Aktiv Effekt uttag', L2active_energy_out,valuetype)
+                    #print ('L2 Aktiv Effekt uttag', L2active_energy_out,valuetype)
                 if i==14:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2active_energy_in=read_date.decode("utf-8")
-                    print ('L2 Aktive Effekt in', L2active_energy_in,valuetype)
+                    #print ('L2 Aktive Effekt in', L2active_energy_in,valuetype)
                 if i==15:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3active_energy_out=read_date.decode("utf-8")
-                    print ('L3 Aktiv Effekt uttag', L3active_energy_out,valuetype)
+                    #print ('L3 Aktiv Effekt uttag', L3active_energy_out,valuetype)
                 if i==16:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3active_energy_in=read_date.decode("utf-8")
-                    print ('L3 Aktive Effekt in', L3active_energy_in,valuetype)
+                    #print ('L3 Aktive Effekt in', L3active_energy_in,valuetype)
                 if i==17:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1reactive_energy_out=read_date.decode("utf-8")
-                    print ('L1 reaktiv Effekt uttag', L1reactive_energy_out,valuetype)
+                    #print ('L1 reaktiv Effekt uttag', L1reactive_energy_out,valuetype)
                 if i==18:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1reactive_energy_in=read_date.decode("utf-8")
-                    print ('L1 reaktive Effekt in', L1reactive_energy_in,valuetype)
+                    #print ('L1 reaktive Effekt in', L1reactive_energy_in,valuetype)
                 if i==19:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2reactive_energy_out=read_date.decode("utf-8")
-                    print ('L2 reaktiv Effekt uttag', L2reactive_energy_out,valuetype)
+                    #print ('L2 reaktiv Effekt uttag', L2reactive_energy_out,valuetype)
                 if i==20:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2reactive_energy_in=read_date.decode("utf-8")
-                    print ('L2 reaktive Effekt in', L2reactive_energy_in,valuetype)
+                    #print ('L2 reaktive Effekt in', L2reactive_energy_in,valuetype)
                 if i==21:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3reactive_energy_out=read_date.decode("utf-8")
-                    print ('L3 reaktiv Effekt uttag', L3reactive_energy_out,valuetype)
+                    #print ('L3 reaktiv Effekt uttag', L3reactive_energy_out,valuetype)
                 if i==22:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3reactive_energy_in=read_date.decode("utf-8")
-                    print ('L3 reaktive Effekt in', L3reactive_energy_in,valuetype)
+                    #print ('L3 reaktive Effekt in', L3reactive_energy_in,valuetype)
                 if i==23:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1voltage=read_date.decode("utf-8")
-                    print ('Fasspänning L1', L1voltage, valuetype)
+                    #print ('Fasspänning L1', L1voltage, valuetype)
                 if i==24:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2voltage=read_date.decode("utf-8")
-                    print ('Fasspänning L2', L2voltage,valuetype)
+                    #print ('Fasspänning L2', L2voltage,valuetype)
                 if i==25:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3voltage=read_date.decode("utf-8")
-                    print ('Fasspänning L3', L3voltage,valuetype)
+                    #print ('Fasspänning L3', L3voltage,valuetype)
                 if i==26:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L1ampere=read_date.decode("utf-8")
-                    print ('Fasström L1', L1ampere, valuetype)
+                    #print ('Fasström L1', L1ampere, valuetype)
                 if i==27:
                     read_date =read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L2ampere=read_date.decode("utf-8")
-                    print ('Fasström L2', L2ampere,valuetype)
+                    #print ('Fasström L2', L2ampere,valuetype)
                 if i==28:
                     #print("rad 8")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3ampere=read_date.decode("utf-8")
-                    print ('Fasström L3', L3ampere,valuetype)
+                    #print ('Fasström L3', L3ampere,valuetype)
             else:
                 print("forloop finished")
             mqtt_save()
+            schedule.run_pending()
+
+
     #mqtt_save('effektutag',active_energy_out_curr)
     #mqtt_save('SpänningL1',L1voltage)
     #mqtt_save('SpänningL2',L2voltage)
@@ -299,5 +325,5 @@ if __name__ == '__main__':
         except socket.timeout:
             logger.error("timeout error in network")
             print("Socket timeout occurred.") 
-            time.sleep(10)
+            time.sleep(11)
             continue
