@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
     #scheduler = sched.scheduler(time.time, time.sleep)
     schedule.every(2).minutes.do(hourly_energy)
-
+    NewEnergyCounter=0
    
 
     # serial_port.open()
