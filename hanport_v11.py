@@ -78,6 +78,45 @@ def mqtt_save():
     #f.write(input_topic +"\n")
     #f.close()
 
+def mqtt_save_hour():
+
+    def on_connect(client, userdata, flags, rc):
+        if rc==0:
+            client.connected_flag=True #set flag
+            print("connected OK")
+            #logger.debug('connected OK to mqtt broker')
+        else:
+            print("Bad connection Returned code=",rc)
+            logger.debug('Failed to connect to mqtt broker')
+
+    #input_topic="/el/tobo/"
+    #input_message=mqtt_value
+    input_host="192.168.1.105"
+    user="remoteuser"
+    password="Leokatt60"
+    mqtt.Client.connected_flag=False # create connected_flag
+
+
+    # This is the Publisher
+
+    client = mqtt.Client()
+    client.on_connect=on_connect
+    client.username_pw_set(user, password=password)
+    client.loop_start()
+    print('connecting to broker' + input_host)
+    #logger.debug('connecting to broker' + input_host)
+    client.connect(input_host,1883,60)
+    while not client.connected_flag: #wait in loop
+        print("In wait mqtt loop")
+        time.sleep(10)
+    print("mqtt connected or failed")
+    client.loop_stop()
+    #client.publish(input_topic, input_message);
+    input_topic="/el/tobo/"+"hour consuption kWh"
+    client.publish(input_topic,active_energy_out)    
+    client.disconnect();
+
+
 def hourly_energy():
     #save energy consumption every hour
     global NewEnergyCounter
