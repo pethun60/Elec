@@ -107,7 +107,7 @@ if __name__ == '__main__':
     read_lines=30
 
     #scheduler = sched.scheduler(time.time, time.sleep)
-    schedule.every(60).minutes.do(hourly_energy)
+    schedule.every(2).minutes.do(hourly_energy)
 
    
 
