@@ -21,9 +21,11 @@ file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
 
+
 def mqtt_save():
 
     def on_connect(client, userdata, flags, rc):
+
         if rc==0:
             client.connected_flag=True #set flag
             print("connected OK")
@@ -38,7 +40,7 @@ def mqtt_save():
     user="remoteuser"
     password="Leokatt60"
     mqtt.Client.connected_flag=False # create connected_flag
-
+    global EnergyCalculation
 
     # This is the Publisher
 
@@ -71,11 +73,11 @@ def mqtt_save():
     client.publish(input_topic,L2ampere)
     input_topic="/el/tobo/"+"FasströmL3"
     client.publish(input_topic,L3ampere)
-    client.disconnect();
     if EnergyCalculation:
+        input_topic="/el/tobo/HourEnergyConsumption"
         client.publish(input_topic,HourEnergyConsumption)
-        input_topic="/el/tobo/"+ HourEnergyConsumption
         EnergyCalculation=False
+    client.disconnect();
     #logger.debug('all mqtt_save value saved')
     #f= open("temp_RH.txt","a+")
     #f.write("mqtt value" + mqtt_value + "\n")
@@ -88,6 +90,7 @@ def hourly_energy():
     #save energy consumption every hour
     global NewEnergyCounter
     global HourEnergyConsumption
+    global EnergyCalculation
     OldEnergyCounter=NewEnergyCounter
     NewEnergyCounter=active_energy_out
     if float(OldEnergyCounter)>0: 
@@ -120,9 +123,9 @@ if __name__ == '__main__':
     
     NewEnergyCounter='0'
     HourEnergyConsumption=0.0
-    #scheduler = sched.scheduler(time.time, time.sleep)
-    schedule.every(60).minutes.do(hourly_energy)
     EnergyCalculation=False
+    schedule.every(60).minutes.do(hourly_energy)
+   
 
 
     # serial_port.open()
