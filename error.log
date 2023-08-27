@@ -415,3 +415,1071 @@
 2023-08-16 14:29:00,115 : DEBUG : __main__ : Newenergycounter 00028298.436
 2023-08-16 14:29:00,116 : DEBUG : __main__ : oldenergycounter 00028298.410
 2023-08-16 14:29:00,117 : DEBUG : __main__ : 0.02600000000165892
+2023-08-17 10:14:02,845 : DEBUG : __main__ : hourly energy function run 00028329.836
+2023-08-17 10:14:02,847 : DEBUG : __main__ : Newenergycounter 00028329.836
+2023-08-17 10:14:02,849 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 10:14:02,850 : DEBUG : __main__ : 0.0
+2023-08-17 10:16:12,924 : DEBUG : __main__ : hourly energy function run 00028329.861
+2023-08-17 10:16:12,924 : DEBUG : __main__ : Newenergycounter 00028329.861
+2023-08-17 10:16:12,925 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 10:16:12,926 : DEBUG : __main__ : 0.0
+2023-08-17 10:20:11,366 : DEBUG : __main__ : hourly energy function run 00028329.893
+2023-08-17 10:20:11,368 : DEBUG : __main__ : Newenergycounter 00028329.893
+2023-08-17 10:20:11,371 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 10:20:11,373 : DEBUG : __main__ : 0.0
+2023-08-17 10:21:13,242 : DEBUG : __main__ : hourly energy function run 00028329.901
+2023-08-17 10:21:13,244 : DEBUG : __main__ : Newenergycounter 00028329.901
+2023-08-17 10:21:13,246 : DEBUG : __main__ : oldenergycounter 00028329.893
+2023-08-17 10:21:13,247 : DEBUG : __main__ : 0.008000000001629815
+2023-08-17 10:28:41,025 : DEBUG : __main__ : hourly energy function run 00028329.964
+2023-08-17 10:28:41,027 : DEBUG : __main__ : Newenergycounter 00028329.964
+2023-08-17 10:28:41,029 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 10:28:41,031 : DEBUG : __main__ : 0.0
+2023-08-17 10:29:41,917 : DEBUG : __main__ : hourly energy function run 00028329.972
+2023-08-17 10:29:41,920 : DEBUG : __main__ : Newenergycounter 00028329.972
+2023-08-17 10:29:41,922 : DEBUG : __main__ : oldenergycounter 00028329.964
+2023-08-17 10:29:41,924 : DEBUG : __main__ : 0.008000000001629815
+2023-08-17 10:30:42,330 : DEBUG : __main__ : hourly energy function run 00028329.977
+2023-08-17 10:30:42,332 : DEBUG : __main__ : Newenergycounter 00028329.977
+2023-08-17 10:30:42,334 : DEBUG : __main__ : oldenergycounter 00028329.972
+2023-08-17 10:30:42,336 : DEBUG : __main__ : 0.004999999997380655
+2023-08-17 10:32:31,768 : DEBUG : __main__ : hourly energy function run 00028329.992
+2023-08-17 10:32:31,769 : DEBUG : __main__ : Newenergycounter 00028329.992
+2023-08-17 10:32:31,770 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 10:32:31,771 : DEBUG : __main__ : 0.0
+2023-08-17 10:33:35,341 : DEBUG : __main__ : hourly energy function run 00028330.000
+2023-08-17 10:33:35,342 : DEBUG : __main__ : Newenergycounter 00028330.000
+2023-08-17 10:33:35,343 : DEBUG : __main__ : oldenergycounter 00028329.992
+2023-08-17 10:33:35,344 : DEBUG : __main__ : 0.008000000001629815
+2023-08-17 10:34:36,889 : DEBUG : __main__ : hourly energy function run 00028330.008
+2023-08-17 10:34:36,890 : DEBUG : __main__ : Newenergycounter 00028330.008
+2023-08-17 10:34:36,890 : DEBUG : __main__ : oldenergycounter 00028330.000
+2023-08-17 10:34:36,891 : DEBUG : __main__ : 0.008000000001629815
+2023-08-17 10:35:38,537 : DEBUG : __main__ : hourly energy function run 00028330.016
+2023-08-17 10:35:38,538 : DEBUG : __main__ : Newenergycounter 00028330.016
+2023-08-17 10:35:38,539 : DEBUG : __main__ : oldenergycounter 00028330.008
+2023-08-17 10:35:38,540 : DEBUG : __main__ : 0.007999999997991836
+2023-08-17 10:36:39,105 : DEBUG : __main__ : hourly energy function run 00028330.025
+2023-08-17 10:36:39,106 : DEBUG : __main__ : Newenergycounter 00028330.025
+2023-08-17 10:36:39,107 : DEBUG : __main__ : oldenergycounter 00028330.016
+2023-08-17 10:36:39,109 : DEBUG : __main__ : 0.009000000001833541
+2023-08-17 10:37:39,685 : DEBUG : __main__ : hourly energy function run 00028330.034
+2023-08-17 10:37:39,686 : DEBUG : __main__ : Newenergycounter 00028330.034
+2023-08-17 10:37:39,686 : DEBUG : __main__ : oldenergycounter 00028330.025
+2023-08-17 10:37:39,688 : DEBUG : __main__ : 0.008999999998195563
+2023-08-17 10:38:42,341 : DEBUG : __main__ : hourly energy function run 00028330.043
+2023-08-17 10:38:42,342 : DEBUG : __main__ : Newenergycounter 00028330.043
+2023-08-17 10:38:42,343 : DEBUG : __main__ : oldenergycounter 00028330.034
+2023-08-17 10:38:42,344 : DEBUG : __main__ : 0.009000000001833541
+2023-08-17 10:39:44,884 : DEBUG : __main__ : hourly energy function run 00028330.053
+2023-08-17 10:39:44,886 : DEBUG : __main__ : Newenergycounter 00028330.053
+2023-08-17 10:39:44,887 : DEBUG : __main__ : oldenergycounter 00028330.043
+2023-08-17 10:39:44,888 : DEBUG : __main__ : 0.00999999999839929
+2023-08-17 10:40:47,557 : DEBUG : __main__ : hourly energy function run 00028330.062
+2023-08-17 10:40:47,558 : DEBUG : __main__ : Newenergycounter 00028330.062
+2023-08-17 10:40:47,558 : DEBUG : __main__ : oldenergycounter 00028330.053
+2023-08-17 10:40:47,559 : DEBUG : __main__ : 0.009000000001833541
+2023-08-17 10:41:49,117 : DEBUG : __main__ : hourly energy function run 00028330.071
+2023-08-17 10:41:49,118 : DEBUG : __main__ : Newenergycounter 00028330.071
+2023-08-17 10:41:49,119 : DEBUG : __main__ : oldenergycounter 00028330.062
+2023-08-17 10:41:49,120 : DEBUG : __main__ : 0.008999999998195563
+2023-08-17 10:42:50,667 : DEBUG : __main__ : hourly energy function run 00028330.080
+2023-08-17 10:42:50,669 : DEBUG : __main__ : Newenergycounter 00028330.080
+2023-08-17 10:42:50,670 : DEBUG : __main__ : oldenergycounter 00028330.071
+2023-08-17 10:42:50,671 : DEBUG : __main__ : 0.009000000001833541
+2023-08-17 10:43:51,228 : DEBUG : __main__ : hourly energy function run 00028330.089
+2023-08-17 10:43:51,229 : DEBUG : __main__ : Newenergycounter 00028330.089
+2023-08-17 10:43:51,229 : DEBUG : __main__ : oldenergycounter 00028330.080
+2023-08-17 10:43:51,230 : DEBUG : __main__ : 0.008999999998195563
+2023-08-17 10:44:53,854 : DEBUG : __main__ : hourly energy function run 00028330.098
+2023-08-17 10:44:53,856 : DEBUG : __main__ : Newenergycounter 00028330.098
+2023-08-17 10:44:53,857 : DEBUG : __main__ : oldenergycounter 00028330.089
+2023-08-17 10:44:53,858 : DEBUG : __main__ : 0.009000000001833541
+2023-08-17 10:45:55,454 : DEBUG : __main__ : hourly energy function run 00028330.107
+2023-08-17 10:45:55,456 : DEBUG : __main__ : Newenergycounter 00028330.107
+2023-08-17 10:45:55,456 : DEBUG : __main__ : oldenergycounter 00028330.098
+2023-08-17 10:45:55,457 : DEBUG : __main__ : 0.008999999998195563
+2023-08-17 10:46:57,003 : DEBUG : __main__ : hourly energy function run 00028330.115
+2023-08-17 10:46:57,003 : DEBUG : __main__ : Newenergycounter 00028330.115
+2023-08-17 10:46:57,004 : DEBUG : __main__ : oldenergycounter 00028330.107
+2023-08-17 10:46:57,005 : DEBUG : __main__ : 0.008000000001629815
+2023-08-17 10:47:58,547 : DEBUG : __main__ : hourly energy function run 00028330.129
+2023-08-17 10:47:58,548 : DEBUG : __main__ : Newenergycounter 00028330.129
+2023-08-17 10:47:58,549 : DEBUG : __main__ : oldenergycounter 00028330.115
+2023-08-17 10:47:58,550 : DEBUG : __main__ : 0.013999999999214197
+2023-08-17 10:49:02,113 : DEBUG : __main__ : hourly energy function run 00028330.141
+2023-08-17 10:49:02,114 : DEBUG : __main__ : Newenergycounter 00028330.141
+2023-08-17 10:49:02,115 : DEBUG : __main__ : oldenergycounter 00028330.129
+2023-08-17 10:49:02,116 : DEBUG : __main__ : 0.011999999998806743
+2023-08-17 10:50:02,801 : DEBUG : __main__ : hourly energy function run 00028330.154
+2023-08-17 10:50:02,803 : DEBUG : __main__ : Newenergycounter 00028330.154
+2023-08-17 10:50:02,804 : DEBUG : __main__ : oldenergycounter 00028330.141
+2023-08-17 10:50:02,805 : DEBUG : __main__ : 0.01299999999901047
+2023-08-17 09:53:13,831 : DEBUG : __main__ : hourly energy function run 00028331.245
+2023-08-17 09:53:13,832 : DEBUG : __main__ : Newenergycounter 00028331.245
+2023-08-17 09:53:13,833 : DEBUG : __main__ : oldenergycounter 0
+2023-08-17 09:53:13,833 : DEBUG : __main__ : 0.0
+2023-08-17 10:53:20,036 : DEBUG : __main__ : hourly energy function run 00028331.885
+2023-08-17 10:53:20,037 : DEBUG : __main__ : Newenergycounter 00028331.885
+2023-08-17 10:53:20,039 : DEBUG : __main__ : oldenergycounter 00028331.245
+2023-08-17 10:53:20,040 : DEBUG : __main__ : 0.6399999999994179
+2023-08-17 11:53:28,118 : DEBUG : __main__ : hourly energy function run 00028332.511
+2023-08-17 11:53:28,120 : DEBUG : __main__ : Newenergycounter 00028332.511
+2023-08-17 11:53:28,121 : DEBUG : __main__ : oldenergycounter 00028331.885
+2023-08-17 11:53:28,122 : DEBUG : __main__ : 0.6260000000002037
+2023-08-17 12:53:33,820 : DEBUG : __main__ : hourly energy function run 00028333.154
+2023-08-17 12:53:33,820 : DEBUG : __main__ : Newenergycounter 00028333.154
+2023-08-17 12:53:33,821 : DEBUG : __main__ : oldenergycounter 00028332.511
+2023-08-17 12:53:33,821 : DEBUG : __main__ : 0.6430000000000291
+2023-08-17 13:53:34,500 : DEBUG : __main__ : hourly energy function run 00028333.696
+2023-08-17 13:53:34,501 : DEBUG : __main__ : Newenergycounter 00028333.696
+2023-08-17 13:53:34,502 : DEBUG : __main__ : oldenergycounter 00028333.154
+2023-08-17 13:53:34,503 : DEBUG : __main__ : 0.5420000000012806
+2023-08-17 14:53:43,523 : DEBUG : __main__ : hourly energy function run 00028334.736
+2023-08-17 14:53:43,523 : DEBUG : __main__ : Newenergycounter 00028334.736
+2023-08-17 14:53:43,524 : DEBUG : __main__ : oldenergycounter 00028333.696
+2023-08-17 14:53:43,525 : DEBUG : __main__ : 1.0400000000008731
+2023-08-17 15:53:43,556 : DEBUG : __main__ : hourly energy function run 00028335.841
+2023-08-17 15:53:43,556 : DEBUG : __main__ : Newenergycounter 00028335.841
+2023-08-17 15:53:43,557 : DEBUG : __main__ : oldenergycounter 00028334.736
+2023-08-17 15:53:43,557 : DEBUG : __main__ : 1.1049999999995634
+2023-08-17 16:53:45,627 : DEBUG : __main__ : hourly energy function run 00028336.940
+2023-08-17 16:53:45,627 : DEBUG : __main__ : Newenergycounter 00028336.940
+2023-08-17 16:53:45,628 : DEBUG : __main__ : oldenergycounter 00028335.841
+2023-08-17 16:53:45,628 : DEBUG : __main__ : 1.098999999998341
+2023-08-17 17:53:48,604 : DEBUG : __main__ : hourly energy function run 00028338.530
+2023-08-17 17:53:48,605 : DEBUG : __main__ : Newenergycounter 00028338.530
+2023-08-17 17:53:48,606 : DEBUG : __main__ : oldenergycounter 00028336.940
+2023-08-17 17:53:48,606 : DEBUG : __main__ : 1.5900000000001455
+2023-08-17 18:53:48,911 : DEBUG : __main__ : hourly energy function run 00028339.852
+2023-08-17 18:53:48,911 : DEBUG : __main__ : Newenergycounter 00028339.852
+2023-08-17 18:53:48,912 : DEBUG : __main__ : oldenergycounter 00028338.530
+2023-08-17 18:53:48,912 : DEBUG : __main__ : 1.3220000000001164
+2023-08-17 19:53:54,861 : DEBUG : __main__ : hourly energy function run 00028340.775
+2023-08-17 19:53:54,862 : DEBUG : __main__ : Newenergycounter 00028340.775
+2023-08-17 19:53:54,862 : DEBUG : __main__ : oldenergycounter 00028339.852
+2023-08-17 19:53:54,863 : DEBUG : __main__ : 0.9230000000025029
+2023-08-17 20:54:01,231 : DEBUG : __main__ : hourly energy function run 00028343.876
+2023-08-17 20:54:01,232 : DEBUG : __main__ : Newenergycounter 00028343.876
+2023-08-17 20:54:01,233 : DEBUG : __main__ : oldenergycounter 00028340.775
+2023-08-17 20:54:01,233 : DEBUG : __main__ : 3.1009999999987485
+2023-08-17 21:54:05,026 : DEBUG : __main__ : hourly energy function run 00028344.699
+2023-08-17 21:54:05,027 : DEBUG : __main__ : Newenergycounter 00028344.699
+2023-08-17 21:54:05,027 : DEBUG : __main__ : oldenergycounter 00028343.876
+2023-08-17 21:54:05,028 : DEBUG : __main__ : 0.8230000000003201
+2023-08-17 22:54:12,568 : DEBUG : __main__ : hourly energy function run 00028345.539
+2023-08-17 22:54:12,568 : DEBUG : __main__ : Newenergycounter 00028345.539
+2023-08-17 22:54:12,569 : DEBUG : __main__ : oldenergycounter 00028344.699
+2023-08-17 22:54:12,569 : DEBUG : __main__ : 0.8400000000001455
+2023-08-17 23:54:15,046 : DEBUG : __main__ : hourly energy function run 00028346.184
+2023-08-17 23:54:15,047 : DEBUG : __main__ : Newenergycounter 00028346.184
+2023-08-17 23:54:15,047 : DEBUG : __main__ : oldenergycounter 00028345.539
+2023-08-17 23:54:15,048 : DEBUG : __main__ : 0.6450000000004366
+2023-08-18 00:54:15,951 : DEBUG : __main__ : hourly energy function run 00028346.856
+2023-08-18 00:54:15,951 : DEBUG : __main__ : Newenergycounter 00028346.856
+2023-08-18 00:54:15,952 : DEBUG : __main__ : oldenergycounter 00028346.184
+2023-08-18 00:54:15,953 : DEBUG : __main__ : 0.6719999999986612
+2023-08-18 01:54:24,812 : DEBUG : __main__ : hourly energy function run 00028347.472
+2023-08-18 01:54:24,812 : DEBUG : __main__ : Newenergycounter 00028347.472
+2023-08-18 01:54:24,813 : DEBUG : __main__ : oldenergycounter 00028346.856
+2023-08-18 01:54:24,813 : DEBUG : __main__ : 0.6160000000018044
+2023-08-18 02:54:27,658 : DEBUG : __main__ : hourly energy function run 00028347.885
+2023-08-18 02:54:27,658 : DEBUG : __main__ : Newenergycounter 00028347.885
+2023-08-18 02:54:27,659 : DEBUG : __main__ : oldenergycounter 00028347.472
+2023-08-18 02:54:27,659 : DEBUG : __main__ : 0.4129999999968277
+2023-08-18 03:54:33,466 : DEBUG : __main__ : hourly energy function run 00028348.867
+2023-08-18 03:54:33,466 : DEBUG : __main__ : Newenergycounter 00028348.867
+2023-08-18 03:54:33,467 : DEBUG : __main__ : oldenergycounter 00028347.885
+2023-08-18 03:54:33,467 : DEBUG : __main__ : 0.9819999999999709
+2023-08-18 04:54:36,015 : DEBUG : __main__ : hourly energy function run 00028349.538
+2023-08-18 04:54:36,015 : DEBUG : __main__ : Newenergycounter 00028349.538
+2023-08-18 04:54:36,016 : DEBUG : __main__ : oldenergycounter 00028348.867
+2023-08-18 04:54:36,016 : DEBUG : __main__ : 0.6710000000020955
+2023-08-18 05:54:41,285 : DEBUG : __main__ : hourly energy function run 00028350.144
+2023-08-18 05:54:41,286 : DEBUG : __main__ : Newenergycounter 00028350.144
+2023-08-18 05:54:41,286 : DEBUG : __main__ : oldenergycounter 00028349.538
+2023-08-18 05:54:41,287 : DEBUG : __main__ : 0.6059999999997672
+2023-08-18 06:54:48,361 : DEBUG : __main__ : hourly energy function run 00028350.584
+2023-08-18 06:54:48,361 : DEBUG : __main__ : Newenergycounter 00028350.584
+2023-08-18 06:54:48,362 : DEBUG : __main__ : oldenergycounter 00028350.144
+2023-08-18 06:54:48,362 : DEBUG : __main__ : 0.4399999999986903
+2023-08-18 07:54:51,906 : DEBUG : __main__ : hourly energy function run 00028351.178
+2023-08-18 07:54:51,907 : DEBUG : __main__ : Newenergycounter 00028351.178
+2023-08-18 07:54:51,907 : DEBUG : __main__ : oldenergycounter 00028350.584
+2023-08-18 07:54:51,908 : DEBUG : __main__ : 0.5940000000009604
+2023-08-18 08:55:01,121 : DEBUG : __main__ : hourly energy function run 00028352.124
+2023-08-18 08:55:01,122 : DEBUG : __main__ : Newenergycounter 00028352.124
+2023-08-18 08:55:01,122 : DEBUG : __main__ : oldenergycounter 00028351.178
+2023-08-18 08:55:01,123 : DEBUG : __main__ : 0.9459999999999127
+2023-08-18 09:55:02,238 : DEBUG : __main__ : hourly energy function run 00028352.755
+2023-08-18 09:55:02,239 : DEBUG : __main__ : Newenergycounter 00028352.755
+2023-08-18 09:55:02,239 : DEBUG : __main__ : oldenergycounter 00028352.124
+2023-08-18 09:55:02,239 : DEBUG : __main__ : 0.6310000000012224
+2023-08-18 10:55:05,468 : DEBUG : __main__ : hourly energy function run 00028353.374
+2023-08-18 10:55:05,469 : DEBUG : __main__ : Newenergycounter 00028353.374
+2023-08-18 10:55:05,470 : DEBUG : __main__ : oldenergycounter 00028352.755
+2023-08-18 10:55:05,471 : DEBUG : __main__ : 0.6189999999987776
+2023-08-18 11:55:07,123 : DEBUG : __main__ : hourly energy function run 00028353.903
+2023-08-18 11:55:07,124 : DEBUG : __main__ : Newenergycounter 00028353.903
+2023-08-18 11:55:07,125 : DEBUG : __main__ : oldenergycounter 00028353.374
+2023-08-18 11:55:07,126 : DEBUG : __main__ : 0.5289999999986321
+2023-08-18 12:55:11,234 : DEBUG : __main__ : hourly energy function run 00028354.499
+2023-08-18 12:55:11,235 : DEBUG : __main__ : Newenergycounter 00028354.499
+2023-08-18 12:55:11,236 : DEBUG : __main__ : oldenergycounter 00028353.903
+2023-08-18 12:55:11,236 : DEBUG : __main__ : 0.5960000000013679
+2023-08-18 13:55:19,737 : DEBUG : __main__ : hourly energy function run 00028355.373
+2023-08-18 13:55:19,737 : DEBUG : __main__ : Newenergycounter 00028355.373
+2023-08-18 13:55:19,738 : DEBUG : __main__ : oldenergycounter 00028354.499
+2023-08-18 13:55:19,738 : DEBUG : __main__ : 0.8739999999997963
+2023-08-18 14:55:29,797 : DEBUG : __main__ : hourly energy function run 00028356.206
+2023-08-18 14:55:29,798 : DEBUG : __main__ : Newenergycounter 00028356.206
+2023-08-18 14:55:29,798 : DEBUG : __main__ : oldenergycounter 00028355.373
+2023-08-18 14:55:29,799 : DEBUG : __main__ : 0.8329999999987194
+2023-08-18 15:55:30,606 : DEBUG : __main__ : hourly energy function run 00028357.488
+2023-08-18 15:55:30,607 : DEBUG : __main__ : Newenergycounter 00028357.488
+2023-08-18 15:55:30,607 : DEBUG : __main__ : oldenergycounter 00028356.206
+2023-08-18 15:55:30,608 : DEBUG : __main__ : 1.2820000000028813
+2023-08-18 16:55:38,955 : DEBUG : __main__ : hourly energy function run 00028358.219
+2023-08-18 16:55:38,955 : DEBUG : __main__ : Newenergycounter 00028358.219
+2023-08-18 16:55:38,956 : DEBUG : __main__ : oldenergycounter 00028357.488
+2023-08-18 16:55:38,956 : DEBUG : __main__ : 0.7309999999997672
+2023-08-18 17:55:40,836 : DEBUG : __main__ : hourly energy function run 00028360.210
+2023-08-18 17:55:40,837 : DEBUG : __main__ : Newenergycounter 00028360.210
+2023-08-18 17:55:40,838 : DEBUG : __main__ : oldenergycounter 00028358.219
+2023-08-18 17:55:40,838 : DEBUG : __main__ : 1.9909999999981665
+2023-08-18 18:55:41,449 : DEBUG : __main__ : hourly energy function run 00028362.443
+2023-08-18 18:55:41,449 : DEBUG : __main__ : Newenergycounter 00028362.443
+2023-08-18 18:55:41,450 : DEBUG : __main__ : oldenergycounter 00028360.210
+2023-08-18 18:55:41,450 : DEBUG : __main__ : 2.2330000000001746
+2023-08-18 19:55:42,423 : DEBUG : __main__ : hourly energy function run 00028364.129
+2023-08-18 19:55:42,424 : DEBUG : __main__ : Newenergycounter 00028364.129
+2023-08-18 19:55:42,424 : DEBUG : __main__ : oldenergycounter 00028362.443
+2023-08-18 19:55:42,425 : DEBUG : __main__ : 1.6860000000015134
+2023-08-18 20:55:51,178 : DEBUG : __main__ : hourly energy function run 00028366.745
+2023-08-18 20:55:51,179 : DEBUG : __main__ : Newenergycounter 00028366.745
+2023-08-18 20:55:51,179 : DEBUG : __main__ : oldenergycounter 00028364.129
+2023-08-18 20:55:51,180 : DEBUG : __main__ : 2.6159999999981665
+2023-08-18 21:55:57,094 : DEBUG : __main__ : hourly energy function run 00028369.296
+2023-08-18 21:55:57,095 : DEBUG : __main__ : Newenergycounter 00028369.296
+2023-08-18 21:55:57,095 : DEBUG : __main__ : oldenergycounter 00028366.745
+2023-08-18 21:55:57,096 : DEBUG : __main__ : 2.550999999999476
+2023-08-18 22:56:05,574 : DEBUG : __main__ : hourly energy function run 00028373.187
+2023-08-18 22:56:05,575 : DEBUG : __main__ : Newenergycounter 00028373.187
+2023-08-18 22:56:05,575 : DEBUG : __main__ : oldenergycounter 00028369.296
+2023-08-18 22:56:05,575 : DEBUG : __main__ : 3.8910000000032596
+2023-08-18 23:56:14,194 : DEBUG : __main__ : hourly energy function run 00028374.557
+2023-08-18 23:56:14,195 : DEBUG : __main__ : Newenergycounter 00028374.557
+2023-08-18 23:56:14,195 : DEBUG : __main__ : oldenergycounter 00028373.187
+2023-08-18 23:56:14,196 : DEBUG : __main__ : 1.3699999999989814
+2023-08-19 00:56:17,715 : DEBUG : __main__ : hourly energy function run 00028375.098
+2023-08-19 00:56:17,716 : DEBUG : __main__ : Newenergycounter 00028375.098
+2023-08-19 00:56:17,716 : DEBUG : __main__ : oldenergycounter 00028374.557
+2023-08-19 00:56:17,717 : DEBUG : __main__ : 0.5410000000010768
+2023-08-19 01:56:18,321 : DEBUG : __main__ : hourly energy function run 00028375.590
+2023-08-19 01:56:18,321 : DEBUG : __main__ : Newenergycounter 00028375.590
+2023-08-19 01:56:18,322 : DEBUG : __main__ : oldenergycounter 00028375.098
+2023-08-19 01:56:18,323 : DEBUG : __main__ : 0.4919999999983702
+2023-08-19 02:56:24,474 : DEBUG : __main__ : hourly energy function run 00028376.215
+2023-08-19 02:56:24,474 : DEBUG : __main__ : Newenergycounter 00028376.215
+2023-08-19 02:56:24,475 : DEBUG : __main__ : oldenergycounter 00028375.590
+2023-08-19 02:56:24,475 : DEBUG : __main__ : 0.625
+2023-08-19 03:56:30,772 : DEBUG : __main__ : hourly energy function run 00028376.704
+2023-08-19 03:56:30,773 : DEBUG : __main__ : Newenergycounter 00028376.704
+2023-08-19 03:56:30,774 : DEBUG : __main__ : oldenergycounter 00028376.215
+2023-08-19 03:56:30,775 : DEBUG : __main__ : 0.489000000001397
+2023-08-19 04:56:39,284 : DEBUG : __main__ : hourly energy function run 00028377.275
+2023-08-19 04:56:39,285 : DEBUG : __main__ : Newenergycounter 00028377.275
+2023-08-19 04:56:39,285 : DEBUG : __main__ : oldenergycounter 00028376.704
+2023-08-19 04:56:39,286 : DEBUG : __main__ : 0.5709999999999127
+2023-08-19 05:56:40,123 : DEBUG : __main__ : hourly energy function run 00028378.211
+2023-08-19 05:56:40,123 : DEBUG : __main__ : Newenergycounter 00028378.211
+2023-08-19 05:56:40,124 : DEBUG : __main__ : oldenergycounter 00028377.275
+2023-08-19 05:56:40,125 : DEBUG : __main__ : 0.9359999999978754
+2023-08-19 06:56:44,142 : DEBUG : __main__ : hourly energy function run 00028378.821
+2023-08-19 06:56:44,142 : DEBUG : __main__ : Newenergycounter 00028378.821
+2023-08-19 06:56:44,143 : DEBUG : __main__ : oldenergycounter 00028378.211
+2023-08-19 06:56:44,143 : DEBUG : __main__ : 0.6100000000005821
+2023-08-19 07:56:46,247 : DEBUG : __main__ : hourly energy function run 00028379.625
+2023-08-19 07:56:46,248 : DEBUG : __main__ : Newenergycounter 00028379.625
+2023-08-19 07:56:46,248 : DEBUG : __main__ : oldenergycounter 00028378.821
+2023-08-19 07:56:46,248 : DEBUG : __main__ : 0.8040000000000873
+2023-08-19 08:56:51,102 : DEBUG : __main__ : hourly energy function run 00028380.840
+2023-08-19 08:56:51,102 : DEBUG : __main__ : Newenergycounter 00028380.840
+2023-08-19 08:56:51,103 : DEBUG : __main__ : oldenergycounter 00028379.625
+2023-08-19 08:56:51,104 : DEBUG : __main__ : 1.2150000000001455
+2023-08-19 09:56:59,957 : DEBUG : __main__ : hourly energy function run 00028382.138
+2023-08-19 09:56:59,958 : DEBUG : __main__ : Newenergycounter 00028382.138
+2023-08-19 09:56:59,959 : DEBUG : __main__ : oldenergycounter 00028380.840
+2023-08-19 09:56:59,959 : DEBUG : __main__ : 1.297999999998865
+2023-08-19 10:57:09,864 : DEBUG : __main__ : hourly energy function run 00028384.133
+2023-08-19 10:57:09,865 : DEBUG : __main__ : Newenergycounter 00028384.133
+2023-08-19 10:57:09,865 : DEBUG : __main__ : oldenergycounter 00028382.138
+2023-08-19 10:57:09,866 : DEBUG : __main__ : 1.9950000000026193
+2023-08-19 11:57:11,073 : DEBUG : __main__ : hourly energy function run 00028385.360
+2023-08-19 11:57:11,074 : DEBUG : __main__ : Newenergycounter 00028385.360
+2023-08-19 11:57:11,074 : DEBUG : __main__ : oldenergycounter 00028384.133
+2023-08-19 11:57:11,075 : DEBUG : __main__ : 1.2269999999989523
+2023-08-19 12:57:12,701 : DEBUG : __main__ : hourly energy function run 00028386.769
+2023-08-19 12:57:12,702 : DEBUG : __main__ : Newenergycounter 00028386.769
+2023-08-19 12:57:12,702 : DEBUG : __main__ : oldenergycounter 00028385.360
+2023-08-19 12:57:12,703 : DEBUG : __main__ : 1.4089999999996508
+2023-08-19 13:57:14,836 : DEBUG : __main__ : hourly energy function run 00028387.533
+2023-08-19 13:57:14,837 : DEBUG : __main__ : Newenergycounter 00028387.533
+2023-08-19 13:57:14,837 : DEBUG : __main__ : oldenergycounter 00028386.769
+2023-08-19 13:57:14,838 : DEBUG : __main__ : 0.7639999999992142
+2023-08-19 14:57:21,177 : DEBUG : __main__ : hourly energy function run 00028388.331
+2023-08-19 14:57:21,177 : DEBUG : __main__ : Newenergycounter 00028388.331
+2023-08-19 14:57:21,178 : DEBUG : __main__ : oldenergycounter 00028387.533
+2023-08-19 14:57:21,178 : DEBUG : __main__ : 0.797999999998865
+2023-08-19 15:57:29,037 : DEBUG : __main__ : hourly energy function run 00028388.980
+2023-08-19 15:57:29,038 : DEBUG : __main__ : Newenergycounter 00028388.980
+2023-08-19 15:57:29,038 : DEBUG : __main__ : oldenergycounter 00028388.331
+2023-08-19 15:57:29,039 : DEBUG : __main__ : 0.6490000000012515
+2023-08-19 16:57:37,103 : DEBUG : __main__ : hourly energy function run 00028389.629
+2023-08-19 16:57:37,104 : DEBUG : __main__ : Newenergycounter 00028389.629
+2023-08-19 16:57:37,104 : DEBUG : __main__ : oldenergycounter 00028388.980
+2023-08-19 16:57:37,105 : DEBUG : __main__ : 0.6490000000012515
+2023-08-19 17:57:39,993 : DEBUG : __main__ : hourly energy function run 00028390.242
+2023-08-19 17:57:39,993 : DEBUG : __main__ : Newenergycounter 00028390.242
+2023-08-19 17:57:39,994 : DEBUG : __main__ : oldenergycounter 00028389.629
+2023-08-19 17:57:39,994 : DEBUG : __main__ : 0.6129999999975553
+2023-08-19 18:57:49,263 : DEBUG : __main__ : hourly energy function run 00028390.711
+2023-08-19 18:57:49,264 : DEBUG : __main__ : Newenergycounter 00028390.711
+2023-08-19 18:57:49,265 : DEBUG : __main__ : oldenergycounter 00028390.242
+2023-08-19 18:57:49,265 : DEBUG : __main__ : 0.4690000000009604
+2023-08-19 19:57:53,263 : DEBUG : __main__ : hourly energy function run 00028391.343
+2023-08-19 19:57:53,264 : DEBUG : __main__ : Newenergycounter 00028391.343
+2023-08-19 19:57:53,264 : DEBUG : __main__ : oldenergycounter 00028390.711
+2023-08-19 19:57:53,265 : DEBUG : __main__ : 0.6320000000014261
+2023-08-19 20:58:00,675 : DEBUG : __main__ : hourly energy function run 00028391.942
+2023-08-19 20:58:00,676 : DEBUG : __main__ : Newenergycounter 00028391.942
+2023-08-19 20:58:00,676 : DEBUG : __main__ : oldenergycounter 00028391.343
+2023-08-19 20:58:00,677 : DEBUG : __main__ : 0.5989999999983411
+2023-08-19 21:58:10,277 : DEBUG : __main__ : hourly energy function run 00028393.044
+2023-08-19 21:58:10,278 : DEBUG : __main__ : Newenergycounter 00028393.044
+2023-08-19 21:58:10,279 : DEBUG : __main__ : oldenergycounter 00028391.942
+2023-08-19 21:58:10,280 : DEBUG : __main__ : 1.1020000000025902
+2023-08-19 22:58:20,215 : DEBUG : __main__ : hourly energy function run 00028394.109
+2023-08-19 22:58:20,216 : DEBUG : __main__ : Newenergycounter 00028394.109
+2023-08-19 22:58:20,216 : DEBUG : __main__ : oldenergycounter 00028393.044
+2023-08-19 22:58:20,217 : DEBUG : __main__ : 1.0649999999986903
+2023-08-19 23:58:29,595 : DEBUG : __main__ : hourly energy function run 00028394.735
+2023-08-19 23:58:29,596 : DEBUG : __main__ : Newenergycounter 00028394.735
+2023-08-19 23:58:29,596 : DEBUG : __main__ : oldenergycounter 00028394.109
+2023-08-19 23:58:29,597 : DEBUG : __main__ : 0.6260000000002037
+2023-08-20 00:58:34,009 : DEBUG : __main__ : hourly energy function run 00028396.011
+2023-08-20 00:58:34,009 : DEBUG : __main__ : Newenergycounter 00028396.011
+2023-08-20 00:58:34,010 : DEBUG : __main__ : oldenergycounter 00028394.735
+2023-08-20 00:58:34,010 : DEBUG : __main__ : 1.275999999998021
+2023-08-20 01:58:35,944 : DEBUG : __main__ : hourly energy function run 00028396.620
+2023-08-20 01:58:35,944 : DEBUG : __main__ : Newenergycounter 00028396.620
+2023-08-20 01:58:35,945 : DEBUG : __main__ : oldenergycounter 00028396.011
+2023-08-20 01:58:35,945 : DEBUG : __main__ : 0.6090000000003783
+2023-08-20 02:58:42,908 : DEBUG : __main__ : hourly energy function run 00028397.287
+2023-08-20 02:58:42,908 : DEBUG : __main__ : Newenergycounter 00028397.287
+2023-08-20 02:58:42,909 : DEBUG : __main__ : oldenergycounter 00028396.620
+2023-08-20 02:58:42,909 : DEBUG : __main__ : 0.6670000000012806
+2023-08-20 03:58:48,478 : DEBUG : __main__ : hourly energy function run 00028397.750
+2023-08-20 03:58:48,479 : DEBUG : __main__ : Newenergycounter 00028397.750
+2023-08-20 03:58:48,479 : DEBUG : __main__ : oldenergycounter 00028397.287
+2023-08-20 03:58:48,480 : DEBUG : __main__ : 0.46299999999973807
+2023-08-20 04:58:56,967 : DEBUG : __main__ : hourly energy function run 00028398.345
+2023-08-20 04:58:56,967 : DEBUG : __main__ : Newenergycounter 00028398.345
+2023-08-20 04:58:56,968 : DEBUG : __main__ : oldenergycounter 00028397.750
+2023-08-20 04:58:56,968 : DEBUG : __main__ : 0.5950000000011642
+2023-08-20 05:59:04,468 : DEBUG : __main__ : hourly energy function run 00028398.946
+2023-08-20 05:59:04,469 : DEBUG : __main__ : Newenergycounter 00028398.946
+2023-08-20 05:59:04,469 : DEBUG : __main__ : oldenergycounter 00028398.345
+2023-08-20 05:59:04,470 : DEBUG : __main__ : 0.6009999999987485
+2023-08-20 06:59:07,354 : DEBUG : __main__ : hourly energy function run 00028399.512
+2023-08-20 06:59:07,355 : DEBUG : __main__ : Newenergycounter 00028399.512
+2023-08-20 06:59:07,356 : DEBUG : __main__ : oldenergycounter 00028398.946
+2023-08-20 06:59:07,356 : DEBUG : __main__ : 0.565999999998894
+2023-08-20 07:59:16,413 : DEBUG : __main__ : hourly energy function run 00028401.030
+2023-08-20 07:59:16,414 : DEBUG : __main__ : Newenergycounter 00028401.030
+2023-08-20 07:59:16,414 : DEBUG : __main__ : oldenergycounter 00028399.512
+2023-08-20 07:59:16,415 : DEBUG : __main__ : 1.518000000000029
+2023-08-20 08:59:19,747 : DEBUG : __main__ : hourly energy function run 00028401.838
+2023-08-20 08:59:19,747 : DEBUG : __main__ : Newenergycounter 00028401.838
+2023-08-20 08:59:19,748 : DEBUG : __main__ : oldenergycounter 00028401.030
+2023-08-20 08:59:19,749 : DEBUG : __main__ : 0.8080000000009022
+2023-08-20 09:59:24,542 : DEBUG : __main__ : hourly energy function run 00028403.047
+2023-08-20 09:59:24,543 : DEBUG : __main__ : Newenergycounter 00028403.047
+2023-08-20 09:59:24,544 : DEBUG : __main__ : oldenergycounter 00028401.838
+2023-08-20 09:59:24,544 : DEBUG : __main__ : 1.2089999999989232
+2023-08-20 10:59:33,561 : DEBUG : __main__ : hourly energy function run 00028404.508
+2023-08-20 10:59:33,561 : DEBUG : __main__ : Newenergycounter 00028404.508
+2023-08-20 10:59:33,561 : DEBUG : __main__ : oldenergycounter 00028403.047
+2023-08-20 10:59:33,562 : DEBUG : __main__ : 1.4610000000029686
+2023-08-20 11:59:39,126 : DEBUG : __main__ : hourly energy function run 00028407.603
+2023-08-20 11:59:39,127 : DEBUG : __main__ : Newenergycounter 00028407.603
+2023-08-20 11:59:39,127 : DEBUG : __main__ : oldenergycounter 00028404.508
+2023-08-20 11:59:39,128 : DEBUG : __main__ : 3.094999999997526
+2023-08-20 12:59:48,806 : DEBUG : __main__ : hourly energy function run 00028408.833
+2023-08-20 12:59:48,807 : DEBUG : __main__ : Newenergycounter 00028408.833
+2023-08-20 12:59:48,807 : DEBUG : __main__ : oldenergycounter 00028407.603
+2023-08-20 12:59:48,808 : DEBUG : __main__ : 1.2299999999995634
+2023-08-20 13:59:51,447 : DEBUG : __main__ : hourly energy function run 00028409.559
+2023-08-20 13:59:51,448 : DEBUG : __main__ : Newenergycounter 00028409.559
+2023-08-20 13:59:51,449 : DEBUG : __main__ : oldenergycounter 00028408.833
+2023-08-20 13:59:51,449 : DEBUG : __main__ : 0.7260000000023865
+2023-08-20 14:59:52,353 : DEBUG : __main__ : hourly energy function run 00028410.196
+2023-08-20 14:59:52,353 : DEBUG : __main__ : Newenergycounter 00028410.196
+2023-08-20 14:59:52,354 : DEBUG : __main__ : oldenergycounter 00028409.559
+2023-08-20 14:59:52,355 : DEBUG : __main__ : 0.6369999999988067
+2023-08-20 15:59:56,889 : DEBUG : __main__ : hourly energy function run 00028411.001
+2023-08-20 15:59:56,890 : DEBUG : __main__ : Newenergycounter 00028411.001
+2023-08-20 15:59:56,890 : DEBUG : __main__ : oldenergycounter 00028410.196
+2023-08-20 15:59:56,890 : DEBUG : __main__ : 0.805000000000291
+2023-08-20 16:08:46,868 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-20 17:00:01,164 : DEBUG : __main__ : hourly energy function run 00028412.604
+2023-08-20 17:00:01,165 : DEBUG : __main__ : Newenergycounter 00028412.604
+2023-08-20 17:00:01,165 : DEBUG : __main__ : oldenergycounter 00028411.001
+2023-08-20 17:00:01,166 : DEBUG : __main__ : 1.602999999999156
+2023-08-20 18:00:08,709 : DEBUG : __main__ : hourly energy function run 00028413.750
+2023-08-20 18:00:08,709 : DEBUG : __main__ : Newenergycounter 00028413.750
+2023-08-20 18:00:08,710 : DEBUG : __main__ : oldenergycounter 00028412.604
+2023-08-20 18:00:08,710 : DEBUG : __main__ : 1.1460000000006403
+2023-08-20 19:00:15,512 : DEBUG : __main__ : hourly energy function run 00028416.752
+2023-08-20 19:00:15,513 : DEBUG : __main__ : Newenergycounter 00028416.752
+2023-08-20 19:00:15,513 : DEBUG : __main__ : oldenergycounter 00028413.750
+2023-08-20 19:00:15,514 : DEBUG : __main__ : 3.0020000000004075
+2023-08-20 20:00:25,531 : DEBUG : __main__ : hourly energy function run 00028418.603
+2023-08-20 20:00:25,531 : DEBUG : __main__ : Newenergycounter 00028418.603
+2023-08-20 20:00:25,532 : DEBUG : __main__ : oldenergycounter 00028416.752
+2023-08-20 20:00:25,533 : DEBUG : __main__ : 1.8509999999987485
+2023-08-20 21:00:28,215 : DEBUG : __main__ : hourly energy function run 00028419.949
+2023-08-20 21:00:28,216 : DEBUG : __main__ : Newenergycounter 00028419.949
+2023-08-20 21:00:28,217 : DEBUG : __main__ : oldenergycounter 00028418.603
+2023-08-20 21:00:28,217 : DEBUG : __main__ : 1.3460000000013679
+2023-08-20 22:00:34,739 : DEBUG : __main__ : hourly energy function run 00028422.023
+2023-08-20 22:00:34,740 : DEBUG : __main__ : Newenergycounter 00028422.023
+2023-08-20 22:00:34,741 : DEBUG : __main__ : oldenergycounter 00028419.949
+2023-08-20 22:00:34,742 : DEBUG : __main__ : 2.074000000000524
+2023-08-20 23:00:44,023 : DEBUG : __main__ : hourly energy function run 00028422.956
+2023-08-20 23:00:44,023 : DEBUG : __main__ : Newenergycounter 00028422.956
+2023-08-20 23:00:44,024 : DEBUG : __main__ : oldenergycounter 00028422.023
+2023-08-20 23:00:44,024 : DEBUG : __main__ : 0.9329999999972642
+2023-08-21 00:00:44,649 : DEBUG : __main__ : hourly energy function run 00028423.565
+2023-08-21 00:00:44,649 : DEBUG : __main__ : Newenergycounter 00028423.565
+2023-08-21 00:00:44,650 : DEBUG : __main__ : oldenergycounter 00028422.956
+2023-08-21 00:00:44,650 : DEBUG : __main__ : 0.6090000000003783
+2023-08-21 01:00:53,970 : DEBUG : __main__ : hourly energy function run 00028424.342
+2023-08-21 01:00:53,970 : DEBUG : __main__ : Newenergycounter 00028424.342
+2023-08-21 01:00:53,971 : DEBUG : __main__ : oldenergycounter 00028423.565
+2023-08-21 01:00:53,971 : DEBUG : __main__ : 0.7770000000018626
+2023-08-21 02:01:00,703 : DEBUG : __main__ : hourly energy function run 00028424.959
+2023-08-21 02:01:00,704 : DEBUG : __main__ : Newenergycounter 00028424.959
+2023-08-21 02:01:00,704 : DEBUG : __main__ : oldenergycounter 00028424.342
+2023-08-21 02:01:00,705 : DEBUG : __main__ : 0.6169999999983702
+2023-08-21 03:01:01,419 : DEBUG : __main__ : hourly energy function run 00028425.578
+2023-08-21 03:01:01,420 : DEBUG : __main__ : Newenergycounter 00028425.578
+2023-08-21 03:01:01,421 : DEBUG : __main__ : oldenergycounter 00028424.959
+2023-08-21 03:01:01,421 : DEBUG : __main__ : 0.6190000000024156
+2023-08-21 04:01:11,481 : DEBUG : __main__ : hourly energy function run 00028426.001
+2023-08-21 04:01:11,482 : DEBUG : __main__ : Newenergycounter 00028426.001
+2023-08-21 04:01:11,482 : DEBUG : __main__ : oldenergycounter 00028425.578
+2023-08-21 04:01:11,483 : DEBUG : __main__ : 0.42299999999886495
+2023-08-21 05:01:19,415 : DEBUG : __main__ : hourly energy function run 00028428.747
+2023-08-21 05:01:19,416 : DEBUG : __main__ : Newenergycounter 00028428.747
+2023-08-21 05:01:19,416 : DEBUG : __main__ : oldenergycounter 00028426.001
+2023-08-21 05:01:19,417 : DEBUG : __main__ : 2.745999999999185
+2023-08-21 06:01:26,122 : DEBUG : __main__ : hourly energy function run 00028430.190
+2023-08-21 06:01:26,123 : DEBUG : __main__ : Newenergycounter 00028430.190
+2023-08-21 06:01:26,123 : DEBUG : __main__ : oldenergycounter 00028428.747
+2023-08-21 06:01:26,124 : DEBUG : __main__ : 1.4429999999993015
+2023-08-21 07:01:26,775 : DEBUG : __main__ : hourly energy function run 00028430.784
+2023-08-21 07:01:26,776 : DEBUG : __main__ : Newenergycounter 00028430.784
+2023-08-21 07:01:26,777 : DEBUG : __main__ : oldenergycounter 00028430.190
+2023-08-21 07:01:26,777 : DEBUG : __main__ : 0.5940000000009604
+2023-08-21 08:01:30,071 : DEBUG : __main__ : hourly energy function run 00028431.388
+2023-08-21 08:01:30,072 : DEBUG : __main__ : Newenergycounter 00028431.388
+2023-08-21 08:01:30,073 : DEBUG : __main__ : oldenergycounter 00028430.784
+2023-08-21 08:01:30,073 : DEBUG : __main__ : 0.6039999999993597
+2023-08-21 09:01:37,884 : DEBUG : __main__ : hourly energy function run 00028432.202
+2023-08-21 09:01:37,885 : DEBUG : __main__ : Newenergycounter 00028432.202
+2023-08-21 09:01:37,885 : DEBUG : __main__ : oldenergycounter 00028431.388
+2023-08-21 09:01:37,886 : DEBUG : __main__ : 0.8140000000021246
+2023-08-21 10:01:47,352 : DEBUG : __main__ : hourly energy function run 00028433.187
+2023-08-21 10:01:47,353 : DEBUG : __main__ : Newenergycounter 00028433.187
+2023-08-21 10:01:47,354 : DEBUG : __main__ : oldenergycounter 00028432.202
+2023-08-21 10:01:47,355 : DEBUG : __main__ : 0.9850000000005821
+2023-08-21 11:01:50,542 : DEBUG : __main__ : hourly energy function run 00028433.914
+2023-08-21 11:01:50,542 : DEBUG : __main__ : Newenergycounter 00028433.914
+2023-08-21 11:01:50,543 : DEBUG : __main__ : oldenergycounter 00028433.187
+2023-08-21 11:01:50,543 : DEBUG : __main__ : 0.7269999999989523
+2023-08-21 12:01:57,787 : DEBUG : __main__ : hourly energy function run 00028434.729
+2023-08-21 12:01:57,788 : DEBUG : __main__ : Newenergycounter 00028434.729
+2023-08-21 12:01:57,788 : DEBUG : __main__ : oldenergycounter 00028433.914
+2023-08-21 12:01:57,789 : DEBUG : __main__ : 0.8149999999986903
+2023-08-21 13:02:03,811 : DEBUG : __main__ : hourly energy function run 00028435.623
+2023-08-21 13:02:03,812 : DEBUG : __main__ : Newenergycounter 00028435.623
+2023-08-21 13:02:03,812 : DEBUG : __main__ : oldenergycounter 00028434.729
+2023-08-21 13:02:03,813 : DEBUG : __main__ : 0.8940000000002328
+2023-08-21 14:02:10,529 : DEBUG : __main__ : hourly energy function run 00028436.428
+2023-08-21 14:02:10,530 : DEBUG : __main__ : Newenergycounter 00028436.428
+2023-08-21 14:02:10,530 : DEBUG : __main__ : oldenergycounter 00028435.623
+2023-08-21 14:02:10,531 : DEBUG : __main__ : 0.805000000000291
+2023-08-21 15:02:12,102 : DEBUG : __main__ : hourly energy function run 00028437.167
+2023-08-21 15:02:12,103 : DEBUG : __main__ : Newenergycounter 00028437.167
+2023-08-21 15:02:12,104 : DEBUG : __main__ : oldenergycounter 00028436.428
+2023-08-21 15:02:12,105 : DEBUG : __main__ : 0.739000000001397
+2023-08-21 16:02:16,999 : DEBUG : __main__ : hourly energy function run 00028438.091
+2023-08-21 16:02:17,000 : DEBUG : __main__ : Newenergycounter 00028438.091
+2023-08-21 16:02:17,001 : DEBUG : __main__ : oldenergycounter 00028437.167
+2023-08-21 16:02:17,001 : DEBUG : __main__ : 0.9239999999990687
+2023-08-21 17:02:27,693 : DEBUG : __main__ : hourly energy function run 00028439.332
+2023-08-21 17:02:27,694 : DEBUG : __main__ : Newenergycounter 00028439.332
+2023-08-21 17:02:27,694 : DEBUG : __main__ : oldenergycounter 00028438.091
+2023-08-21 17:02:27,695 : DEBUG : __main__ : 1.2409999999981665
+2023-08-21 18:02:36,738 : DEBUG : __main__ : hourly energy function run 00028440.123
+2023-08-21 18:02:36,739 : DEBUG : __main__ : Newenergycounter 00028440.123
+2023-08-21 18:02:36,739 : DEBUG : __main__ : oldenergycounter 00028439.332
+2023-08-21 18:02:36,740 : DEBUG : __main__ : 0.7910000000010768
+2023-08-21 19:02:40,121 : DEBUG : __main__ : hourly energy function run 00028441.075
+2023-08-21 19:02:40,122 : DEBUG : __main__ : Newenergycounter 00028441.075
+2023-08-21 19:02:40,123 : DEBUG : __main__ : oldenergycounter 00028440.123
+2023-08-21 19:02:40,124 : DEBUG : __main__ : 0.952000000001135
+2023-08-21 20:02:45,006 : DEBUG : __main__ : hourly energy function run 00028444.306
+2023-08-21 20:02:45,007 : DEBUG : __main__ : Newenergycounter 00028444.306
+2023-08-21 20:02:45,007 : DEBUG : __main__ : oldenergycounter 00028441.075
+2023-08-21 20:02:45,008 : DEBUG : __main__ : 3.230999999999767
+2023-08-21 21:02:49,475 : DEBUG : __main__ : hourly energy function run 00028445.227
+2023-08-21 21:02:49,476 : DEBUG : __main__ : Newenergycounter 00028445.227
+2023-08-21 21:02:49,476 : DEBUG : __main__ : oldenergycounter 00028444.306
+2023-08-21 21:02:49,477 : DEBUG : __main__ : 0.9209999999984575
+2023-08-21 22:02:55,356 : DEBUG : __main__ : hourly energy function run 00028447.580
+2023-08-21 22:02:55,357 : DEBUG : __main__ : Newenergycounter 00028447.580
+2023-08-21 22:02:55,358 : DEBUG : __main__ : oldenergycounter 00028445.227
+2023-08-21 22:02:55,359 : DEBUG : __main__ : 2.353000000002794
+2023-08-21 23:02:56,922 : DEBUG : __main__ : hourly energy function run 00028448.657
+2023-08-21 23:02:56,922 : DEBUG : __main__ : Newenergycounter 00028448.657
+2023-08-21 23:02:56,923 : DEBUG : __main__ : oldenergycounter 00028447.580
+2023-08-21 23:02:56,923 : DEBUG : __main__ : 1.076999999997497
+2023-08-22 00:03:01,097 : DEBUG : __main__ : hourly energy function run 00028451.645
+2023-08-22 00:03:01,098 : DEBUG : __main__ : Newenergycounter 00028451.645
+2023-08-22 00:03:01,099 : DEBUG : __main__ : oldenergycounter 00028448.657
+2023-08-22 00:03:01,099 : DEBUG : __main__ : 2.9880000000011933
+2023-08-22 01:03:08,094 : DEBUG : __main__ : hourly energy function run 00028452.342
+2023-08-22 01:03:08,095 : DEBUG : __main__ : Newenergycounter 00028452.342
+2023-08-22 01:03:08,095 : DEBUG : __main__ : oldenergycounter 00028451.645
+2023-08-22 01:03:08,096 : DEBUG : __main__ : 0.6970000000001164
+2023-08-22 02:03:18,249 : DEBUG : __main__ : hourly energy function run 00028452.929
+2023-08-22 02:03:18,250 : DEBUG : __main__ : Newenergycounter 00028452.929
+2023-08-22 02:03:18,250 : DEBUG : __main__ : oldenergycounter 00028452.342
+2023-08-22 02:03:18,251 : DEBUG : __main__ : 0.5869999999995343
+2023-08-22 03:03:28,326 : DEBUG : __main__ : hourly energy function run 00028453.473
+2023-08-22 03:03:28,327 : DEBUG : __main__ : Newenergycounter 00028453.473
+2023-08-22 03:03:28,327 : DEBUG : __main__ : oldenergycounter 00028452.929
+2023-08-22 03:03:28,328 : DEBUG : __main__ : 0.544000000001688
+2023-08-22 04:03:32,362 : DEBUG : __main__ : hourly energy function run 00028454.099
+2023-08-22 04:03:32,363 : DEBUG : __main__ : Newenergycounter 00028454.099
+2023-08-22 04:03:32,363 : DEBUG : __main__ : oldenergycounter 00028453.473
+2023-08-22 04:03:32,364 : DEBUG : __main__ : 0.6259999999965657
+2023-08-22 05:03:33,301 : DEBUG : __main__ : hourly energy function run 00028455.621
+2023-08-22 05:03:33,302 : DEBUG : __main__ : Newenergycounter 00028455.621
+2023-08-22 05:03:33,302 : DEBUG : __main__ : oldenergycounter 00028454.099
+2023-08-22 05:03:33,303 : DEBUG : __main__ : 1.522000000000844
+2023-08-22 06:03:39,515 : DEBUG : __main__ : hourly energy function run 00028457.458
+2023-08-22 06:03:39,516 : DEBUG : __main__ : Newenergycounter 00028457.458
+2023-08-22 06:03:39,517 : DEBUG : __main__ : oldenergycounter 00028455.621
+2023-08-22 06:03:39,517 : DEBUG : __main__ : 1.8369999999995343
+2023-08-22 07:03:42,201 : DEBUG : __main__ : hourly energy function run 00028458.744
+2023-08-22 07:03:42,202 : DEBUG : __main__ : Newenergycounter 00028458.744
+2023-08-22 07:03:42,202 : DEBUG : __main__ : oldenergycounter 00028457.458
+2023-08-22 07:03:42,203 : DEBUG : __main__ : 1.2860000000000582
+2023-08-22 08:03:48,769 : DEBUG : __main__ : hourly energy function run 00028459.399
+2023-08-22 08:03:48,770 : DEBUG : __main__ : Newenergycounter 00028459.399
+2023-08-22 08:03:48,770 : DEBUG : __main__ : oldenergycounter 00028458.744
+2023-08-22 08:03:48,771 : DEBUG : __main__ : 0.6550000000024738
+2023-08-22 09:03:52,269 : DEBUG : __main__ : hourly energy function run 00028460.387
+2023-08-22 09:03:52,269 : DEBUG : __main__ : Newenergycounter 00028460.387
+2023-08-22 09:03:52,270 : DEBUG : __main__ : oldenergycounter 00028459.399
+2023-08-22 09:03:52,270 : DEBUG : __main__ : 0.9879999999975553
+2023-08-22 10:03:53,058 : DEBUG : __main__ : hourly energy function run 00028461.021
+2023-08-22 10:03:53,059 : DEBUG : __main__ : Newenergycounter 00028461.021
+2023-08-22 10:03:53,060 : DEBUG : __main__ : oldenergycounter 00028460.387
+2023-08-22 10:03:53,060 : DEBUG : __main__ : 0.6340000000018335
+2023-08-22 11:03:54,453 : DEBUG : __main__ : hourly energy function run 00028461.813
+2023-08-22 11:03:54,454 : DEBUG : __main__ : Newenergycounter 00028461.813
+2023-08-22 11:03:54,454 : DEBUG : __main__ : oldenergycounter 00028461.021
+2023-08-22 11:03:54,455 : DEBUG : __main__ : 0.7919999999976426
+2023-08-22 12:03:55,971 : DEBUG : __main__ : hourly energy function run 00028462.637
+2023-08-22 12:03:55,971 : DEBUG : __main__ : Newenergycounter 00028462.637
+2023-08-22 12:03:55,972 : DEBUG : __main__ : oldenergycounter 00028461.813
+2023-08-22 12:03:55,972 : DEBUG : __main__ : 0.8240000000005239
+2023-08-22 13:04:01,989 : DEBUG : __main__ : hourly energy function run 00028463.692
+2023-08-22 13:04:01,990 : DEBUG : __main__ : Newenergycounter 00028463.692
+2023-08-22 13:04:01,991 : DEBUG : __main__ : oldenergycounter 00028462.637
+2023-08-22 13:04:01,991 : DEBUG : __main__ : 1.055000000000291
+2023-08-22 14:04:07,659 : DEBUG : __main__ : hourly energy function run 00028464.231
+2023-08-22 14:04:07,660 : DEBUG : __main__ : Newenergycounter 00028464.231
+2023-08-22 14:04:07,660 : DEBUG : __main__ : oldenergycounter 00028463.692
+2023-08-22 14:04:07,662 : DEBUG : __main__ : 0.5390000000006694
+2023-08-22 15:04:15,288 : DEBUG : __main__ : hourly energy function run 00028465.015
+2023-08-22 15:04:15,288 : DEBUG : __main__ : Newenergycounter 00028465.015
+2023-08-22 15:04:15,289 : DEBUG : __main__ : oldenergycounter 00028464.231
+2023-08-22 15:04:15,291 : DEBUG : __main__ : 0.7839999999996508
+2023-08-22 16:04:17,284 : DEBUG : __main__ : hourly energy function run 00028465.868
+2023-08-22 16:04:17,284 : DEBUG : __main__ : Newenergycounter 00028465.868
+2023-08-22 16:04:17,286 : DEBUG : __main__ : oldenergycounter 00028465.015
+2023-08-22 16:04:17,287 : DEBUG : __main__ : 0.852999999999156
+2023-08-22 17:04:20,409 : DEBUG : __main__ : hourly energy function run 00028468.403
+2023-08-22 17:04:20,410 : DEBUG : __main__ : Newenergycounter 00028468.403
+2023-08-22 17:04:20,411 : DEBUG : __main__ : oldenergycounter 00028465.868
+2023-08-22 17:04:20,412 : DEBUG : __main__ : 2.5349999999998545
+2023-08-22 18:04:23,932 : DEBUG : __main__ : hourly energy function run 00028471.524
+2023-08-22 18:04:23,932 : DEBUG : __main__ : Newenergycounter 00028471.524
+2023-08-22 18:04:23,932 : DEBUG : __main__ : oldenergycounter 00028468.403
+2023-08-22 18:04:23,933 : DEBUG : __main__ : 3.121000000002823
+2023-08-22 19:04:32,881 : DEBUG : __main__ : hourly energy function run 00028472.945
+2023-08-22 19:04:32,882 : DEBUG : __main__ : Newenergycounter 00028472.945
+2023-08-22 19:04:32,882 : DEBUG : __main__ : oldenergycounter 00028471.524
+2023-08-22 19:04:32,883 : DEBUG : __main__ : 1.4209999999984575
+2023-08-22 20:04:37,414 : DEBUG : __main__ : hourly energy function run 00028475.522
+2023-08-22 20:04:37,414 : DEBUG : __main__ : Newenergycounter 00028475.522
+2023-08-22 20:04:37,415 : DEBUG : __main__ : oldenergycounter 00028472.945
+2023-08-22 20:04:37,415 : DEBUG : __main__ : 2.577000000001135
+2023-08-22 21:04:40,008 : DEBUG : __main__ : hourly energy function run 00028479.266
+2023-08-22 21:04:40,009 : DEBUG : __main__ : Newenergycounter 00028479.266
+2023-08-22 21:04:40,010 : DEBUG : __main__ : oldenergycounter 00028475.522
+2023-08-22 21:04:40,011 : DEBUG : __main__ : 3.7439999999987776
+2023-08-22 22:04:49,733 : DEBUG : __main__ : hourly energy function run 00028480.440
+2023-08-22 22:04:49,734 : DEBUG : __main__ : Newenergycounter 00028480.440
+2023-08-22 22:04:49,735 : DEBUG : __main__ : oldenergycounter 00028479.266
+2023-08-22 22:04:49,737 : DEBUG : __main__ : 1.1739999999990687
+2023-08-22 23:04:59,084 : DEBUG : __main__ : hourly energy function run 00028481.059
+2023-08-22 23:04:59,084 : DEBUG : __main__ : Newenergycounter 00028481.059
+2023-08-22 23:04:59,085 : DEBUG : __main__ : oldenergycounter 00028480.440
+2023-08-22 23:04:59,085 : DEBUG : __main__ : 0.6190000000024156
+2023-08-23 00:05:04,496 : DEBUG : __main__ : hourly energy function run 00028481.827
+2023-08-23 00:05:04,497 : DEBUG : __main__ : Newenergycounter 00028481.827
+2023-08-23 00:05:04,498 : DEBUG : __main__ : oldenergycounter 00028481.059
+2023-08-23 00:05:04,498 : DEBUG : __main__ : 0.7680000000000291
+2023-08-23 01:05:09,651 : DEBUG : __main__ : hourly energy function run 00028482.335
+2023-08-23 01:05:09,652 : DEBUG : __main__ : Newenergycounter 00028482.335
+2023-08-23 01:05:09,653 : DEBUG : __main__ : oldenergycounter 00028481.827
+2023-08-23 01:05:09,654 : DEBUG : __main__ : 0.5079999999979918
+2023-08-23 02:05:17,011 : DEBUG : __main__ : hourly energy function run 00028482.899
+2023-08-23 02:05:17,012 : DEBUG : __main__ : Newenergycounter 00028482.899
+2023-08-23 02:05:17,013 : DEBUG : __main__ : oldenergycounter 00028482.335
+2023-08-23 02:05:17,014 : DEBUG : __main__ : 0.5640000000021246
+2023-08-23 03:05:26,784 : DEBUG : __main__ : hourly energy function run 00028483.456
+2023-08-23 03:05:26,785 : DEBUG : __main__ : Newenergycounter 00028483.456
+2023-08-23 03:05:26,786 : DEBUG : __main__ : oldenergycounter 00028482.899
+2023-08-23 03:05:26,786 : DEBUG : __main__ : 0.5569999999970605
+2023-08-23 04:05:30,983 : DEBUG : __main__ : hourly energy function run 00028484.007
+2023-08-23 04:05:30,984 : DEBUG : __main__ : Newenergycounter 00028484.007
+2023-08-23 04:05:30,985 : DEBUG : __main__ : oldenergycounter 00028483.456
+2023-08-23 04:05:30,985 : DEBUG : __main__ : 0.5510000000031141
+2023-08-23 05:05:34,810 : DEBUG : __main__ : hourly energy function run 00028485.245
+2023-08-23 05:05:34,811 : DEBUG : __main__ : Newenergycounter 00028485.245
+2023-08-23 05:05:34,812 : DEBUG : __main__ : oldenergycounter 00028484.007
+2023-08-23 05:05:34,812 : DEBUG : __main__ : 1.2379999999975553
+2023-08-23 06:05:35,683 : DEBUG : __main__ : hourly energy function run 00028487.690
+2023-08-23 06:05:35,683 : DEBUG : __main__ : Newenergycounter 00028487.690
+2023-08-23 06:05:35,684 : DEBUG : __main__ : oldenergycounter 00028485.245
+2023-08-23 06:05:35,684 : DEBUG : __main__ : 2.444999999999709
+2023-08-23 07:05:36,425 : DEBUG : __main__ : hourly energy function run 00028488.299
+2023-08-23 07:05:36,426 : DEBUG : __main__ : Newenergycounter 00028488.299
+2023-08-23 07:05:36,426 : DEBUG : __main__ : oldenergycounter 00028487.690
+2023-08-23 07:05:36,427 : DEBUG : __main__ : 0.6090000000003783
+2023-08-23 08:05:41,896 : DEBUG : __main__ : hourly energy function run 00028488.687
+2023-08-23 08:05:41,897 : DEBUG : __main__ : Newenergycounter 00028488.687
+2023-08-23 08:05:41,898 : DEBUG : __main__ : oldenergycounter 00028488.299
+2023-08-23 08:05:41,898 : DEBUG : __main__ : 0.38800000000264845
+2023-08-23 08:15:08,256 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-23 09:05:49,843 : DEBUG : __main__ : hourly energy function run 00028489.756
+2023-08-23 09:05:49,844 : DEBUG : __main__ : Newenergycounter 00028489.756
+2023-08-23 09:05:49,844 : DEBUG : __main__ : oldenergycounter 00028488.687
+2023-08-23 09:05:49,845 : DEBUG : __main__ : 1.0689999999995052
+2023-08-23 10:05:55,557 : DEBUG : __main__ : hourly energy function run 00028490.345
+2023-08-23 10:05:55,558 : DEBUG : __main__ : Newenergycounter 00028490.345
+2023-08-23 10:05:55,558 : DEBUG : __main__ : oldenergycounter 00028489.756
+2023-08-23 10:05:55,559 : DEBUG : __main__ : 0.5889999999999418
+2023-08-23 11:05:57,348 : DEBUG : __main__ : hourly energy function run 00028490.925
+2023-08-23 11:05:57,349 : DEBUG : __main__ : Newenergycounter 00028490.925
+2023-08-23 11:05:57,349 : DEBUG : __main__ : oldenergycounter 00028490.345
+2023-08-23 11:05:57,350 : DEBUG : __main__ : 0.5799999999981083
+2023-08-23 12:05:59,784 : DEBUG : __main__ : hourly energy function run 00028491.521
+2023-08-23 12:05:59,785 : DEBUG : __main__ : Newenergycounter 00028491.521
+2023-08-23 12:05:59,785 : DEBUG : __main__ : oldenergycounter 00028490.925
+2023-08-23 12:05:59,785 : DEBUG : __main__ : 0.5960000000013679
+2023-08-23 13:06:00,871 : DEBUG : __main__ : hourly energy function run 00028492.112
+2023-08-23 13:06:00,872 : DEBUG : __main__ : Newenergycounter 00028492.112
+2023-08-23 13:06:00,873 : DEBUG : __main__ : oldenergycounter 00028491.521
+2023-08-23 13:06:00,874 : DEBUG : __main__ : 0.5910000000003492
+2023-08-23 14:06:01,627 : DEBUG : __main__ : hourly energy function run 00028492.696
+2023-08-23 14:06:01,628 : DEBUG : __main__ : Newenergycounter 00028492.696
+2023-08-23 14:06:01,628 : DEBUG : __main__ : oldenergycounter 00028492.112
+2023-08-23 14:06:01,629 : DEBUG : __main__ : 0.5839999999989232
+2023-08-23 15:06:01,784 : DEBUG : __main__ : hourly energy function run 00028493.294
+2023-08-23 15:06:01,785 : DEBUG : __main__ : Newenergycounter 00028493.294
+2023-08-23 15:06:01,786 : DEBUG : __main__ : oldenergycounter 00028492.696
+2023-08-23 15:06:01,786 : DEBUG : __main__ : 0.5980000000017753
+2023-08-23 16:06:01,888 : DEBUG : __main__ : hourly energy function run 00028493.902
+2023-08-23 16:06:01,889 : DEBUG : __main__ : Newenergycounter 00028493.902
+2023-08-23 16:06:01,889 : DEBUG : __main__ : oldenergycounter 00028493.294
+2023-08-23 16:06:01,889 : DEBUG : __main__ : 0.6079999999965366
+2023-08-23 17:06:11,542 : DEBUG : __main__ : hourly energy function run 00028494.847
+2023-08-23 17:06:11,543 : DEBUG : __main__ : Newenergycounter 00028494.847
+2023-08-23 17:06:11,543 : DEBUG : __main__ : oldenergycounter 00028493.902
+2023-08-23 17:06:11,544 : DEBUG : __main__ : 0.9450000000033469
+2023-08-23 18:06:17,208 : DEBUG : __main__ : hourly energy function run 00028495.444
+2023-08-23 18:06:17,208 : DEBUG : __main__ : Newenergycounter 00028495.444
+2023-08-23 18:06:17,209 : DEBUG : __main__ : oldenergycounter 00028494.847
+2023-08-23 18:06:17,209 : DEBUG : __main__ : 0.5969999999979336
+2023-08-23 19:06:20,686 : DEBUG : __main__ : hourly energy function run 00028496.114
+2023-08-23 19:06:20,687 : DEBUG : __main__ : Newenergycounter 00028496.114
+2023-08-23 19:06:20,687 : DEBUG : __main__ : oldenergycounter 00028495.444
+2023-08-23 19:06:20,688 : DEBUG : __main__ : 0.6700000000018917
+2023-08-23 20:06:26,764 : DEBUG : __main__ : hourly energy function run 00028498.101
+2023-08-23 20:06:26,765 : DEBUG : __main__ : Newenergycounter 00028498.101
+2023-08-23 20:06:26,765 : DEBUG : __main__ : oldenergycounter 00028496.114
+2023-08-23 20:06:26,766 : DEBUG : __main__ : 1.9869999999973516
+2023-08-23 21:06:34,931 : DEBUG : __main__ : hourly energy function run 00028501.322
+2023-08-23 21:06:34,932 : DEBUG : __main__ : Newenergycounter 00028501.322
+2023-08-23 21:06:34,933 : DEBUG : __main__ : oldenergycounter 00028498.101
+2023-08-23 21:06:34,933 : DEBUG : __main__ : 3.221000000001368
+2023-08-23 22:06:42,559 : DEBUG : __main__ : hourly energy function run 00028503.367
+2023-08-23 22:06:42,560 : DEBUG : __main__ : Newenergycounter 00028503.367
+2023-08-23 22:06:42,560 : DEBUG : __main__ : oldenergycounter 00028501.322
+2023-08-23 22:06:42,561 : DEBUG : __main__ : 2.0449999999982538
+2023-08-23 23:06:45,767 : DEBUG : __main__ : hourly energy function run 00028504.719
+2023-08-23 23:06:45,768 : DEBUG : __main__ : Newenergycounter 00028504.719
+2023-08-23 23:06:45,768 : DEBUG : __main__ : oldenergycounter 00028503.367
+2023-08-23 23:06:45,769 : DEBUG : __main__ : 1.3520000000025902
+2023-08-24 00:06:52,228 : DEBUG : __main__ : hourly energy function run 00028505.992
+2023-08-24 00:06:52,229 : DEBUG : __main__ : Newenergycounter 00028505.992
+2023-08-24 00:06:52,229 : DEBUG : __main__ : oldenergycounter 00028504.719
+2023-08-24 00:06:52,229 : DEBUG : __main__ : 1.2729999999974098
+2023-08-24 01:07:02,206 : DEBUG : __main__ : hourly energy function run 00028506.457
+2023-08-24 01:07:02,206 : DEBUG : __main__ : Newenergycounter 00028506.457
+2023-08-24 01:07:02,207 : DEBUG : __main__ : oldenergycounter 00028505.992
+2023-08-24 01:07:02,207 : DEBUG : __main__ : 0.4650000000001455
+2023-08-24 02:07:02,266 : DEBUG : __main__ : hourly energy function run 00028507.006
+2023-08-24 02:07:02,267 : DEBUG : __main__ : Newenergycounter 00028507.006
+2023-08-24 02:07:02,268 : DEBUG : __main__ : oldenergycounter 00028506.457
+2023-08-24 02:07:02,268 : DEBUG : __main__ : 0.5490000000027067
+2023-08-24 03:07:07,482 : DEBUG : __main__ : hourly energy function run 00028507.448
+2023-08-24 03:07:07,483 : DEBUG : __main__ : Newenergycounter 00028507.448
+2023-08-24 03:07:07,484 : DEBUG : __main__ : oldenergycounter 00028507.006
+2023-08-24 03:07:07,484 : DEBUG : __main__ : 0.4419999999990978
+2023-08-24 04:07:14,553 : DEBUG : __main__ : hourly energy function run 00028507.915
+2023-08-24 04:07:14,553 : DEBUG : __main__ : Newenergycounter 00028507.915
+2023-08-24 04:07:14,554 : DEBUG : __main__ : oldenergycounter 00028507.448
+2023-08-24 04:07:14,554 : DEBUG : __main__ : 0.467000000000553
+2023-08-24 05:07:14,693 : DEBUG : __main__ : hourly energy function run 00028508.471
+2023-08-24 05:07:14,693 : DEBUG : __main__ : Newenergycounter 00028508.471
+2023-08-24 05:07:14,694 : DEBUG : __main__ : oldenergycounter 00028507.915
+2023-08-24 05:07:14,694 : DEBUG : __main__ : 0.5560000000004948
+2023-08-24 06:07:19,261 : DEBUG : __main__ : hourly energy function run 00028510.034
+2023-08-24 06:07:19,262 : DEBUG : __main__ : Newenergycounter 00028510.034
+2023-08-24 06:07:19,262 : DEBUG : __main__ : oldenergycounter 00028508.471
+2023-08-24 06:07:19,263 : DEBUG : __main__ : 1.5629999999982829
+2023-08-24 07:07:25,239 : DEBUG : __main__ : hourly energy function run 00028510.904
+2023-08-24 07:07:25,240 : DEBUG : __main__ : Newenergycounter 00028510.904
+2023-08-24 07:07:25,240 : DEBUG : __main__ : oldenergycounter 00028510.034
+2023-08-24 07:07:25,241 : DEBUG : __main__ : 0.8699999999989814
+2023-08-24 08:07:32,484 : DEBUG : __main__ : hourly energy function run 00028511.486
+2023-08-24 08:07:32,484 : DEBUG : __main__ : Newenergycounter 00028511.486
+2023-08-24 08:07:32,485 : DEBUG : __main__ : oldenergycounter 00028510.904
+2023-08-24 08:07:32,485 : DEBUG : __main__ : 0.5820000000021537
+2023-08-24 09:07:37,679 : DEBUG : __main__ : hourly energy function run 00028512.042
+2023-08-24 09:07:37,679 : DEBUG : __main__ : Newenergycounter 00028512.042
+2023-08-24 09:07:37,680 : DEBUG : __main__ : oldenergycounter 00028511.486
+2023-08-24 09:07:37,680 : DEBUG : __main__ : 0.5560000000004948
+2023-08-24 10:07:38,749 : DEBUG : __main__ : hourly energy function run 00028513.051
+2023-08-24 10:07:38,750 : DEBUG : __main__ : Newenergycounter 00028513.051
+2023-08-24 10:07:38,750 : DEBUG : __main__ : oldenergycounter 00028512.042
+2023-08-24 10:07:38,751 : DEBUG : __main__ : 1.0089999999981956
+2023-08-24 11:07:45,045 : DEBUG : __main__ : hourly energy function run 00028513.465
+2023-08-24 11:07:45,046 : DEBUG : __main__ : Newenergycounter 00028513.465
+2023-08-24 11:07:45,046 : DEBUG : __main__ : oldenergycounter 00028513.051
+2023-08-24 11:07:45,047 : DEBUG : __main__ : 0.4140000000006694
+2023-08-24 12:07:48,492 : DEBUG : __main__ : hourly energy function run 00028514.195
+2023-08-24 12:07:48,493 : DEBUG : __main__ : Newenergycounter 00028514.195
+2023-08-24 12:07:48,493 : DEBUG : __main__ : oldenergycounter 00028513.465
+2023-08-24 12:07:48,494 : DEBUG : __main__ : 0.7299999999995634
+2023-08-24 13:07:52,693 : DEBUG : __main__ : hourly energy function run 00028514.932
+2023-08-24 13:07:52,694 : DEBUG : __main__ : Newenergycounter 00028514.932
+2023-08-24 13:07:52,695 : DEBUG : __main__ : oldenergycounter 00028514.195
+2023-08-24 13:07:52,695 : DEBUG : __main__ : 0.7370000000009895
+2023-08-24 14:07:54,725 : DEBUG : __main__ : hourly energy function run 00028515.685
+2023-08-24 14:07:54,725 : DEBUG : __main__ : Newenergycounter 00028515.685
+2023-08-24 14:07:54,726 : DEBUG : __main__ : oldenergycounter 00028514.932
+2023-08-24 14:07:54,726 : DEBUG : __main__ : 0.7530000000006112
+2023-08-24 15:08:03,599 : DEBUG : __main__ : hourly energy function run 00028516.793
+2023-08-24 15:08:03,600 : DEBUG : __main__ : Newenergycounter 00028516.793
+2023-08-24 15:08:03,600 : DEBUG : __main__ : oldenergycounter 00028515.685
+2023-08-24 15:08:03,601 : DEBUG : __main__ : 1.1080000000001746
+2023-08-24 16:08:12,104 : DEBUG : __main__ : hourly energy function run 00028517.632
+2023-08-24 16:08:12,105 : DEBUG : __main__ : Newenergycounter 00028517.632
+2023-08-24 16:08:12,105 : DEBUG : __main__ : oldenergycounter 00028516.793
+2023-08-24 16:08:12,106 : DEBUG : __main__ : 0.8389999999999418
+2023-08-24 17:08:16,787 : DEBUG : __main__ : hourly energy function run 00028518.377
+2023-08-24 17:08:16,788 : DEBUG : __main__ : Newenergycounter 00028518.377
+2023-08-24 17:08:16,788 : DEBUG : __main__ : oldenergycounter 00028517.632
+2023-08-24 17:08:16,789 : DEBUG : __main__ : 0.7449999999989814
+2023-08-24 18:08:24,825 : DEBUG : __main__ : hourly energy function run 00028520.313
+2023-08-24 18:08:24,825 : DEBUG : __main__ : Newenergycounter 00028520.313
+2023-08-24 18:08:24,826 : DEBUG : __main__ : oldenergycounter 00028518.377
+2023-08-24 18:08:24,826 : DEBUG : __main__ : 1.9359999999978754
+2023-08-24 19:08:33,933 : DEBUG : __main__ : hourly energy function run 00028520.772
+2023-08-24 19:08:33,933 : DEBUG : __main__ : Newenergycounter 00028520.772
+2023-08-24 19:08:33,934 : DEBUG : __main__ : oldenergycounter 00028520.313
+2023-08-24 19:08:33,934 : DEBUG : __main__ : 0.45900000000256114
+2023-08-24 20:08:39,188 : DEBUG : __main__ : hourly energy function run 00028521.352
+2023-08-24 20:08:39,189 : DEBUG : __main__ : Newenergycounter 00028521.352
+2023-08-24 20:08:39,189 : DEBUG : __main__ : oldenergycounter 00028520.772
+2023-08-24 20:08:39,190 : DEBUG : __main__ : 0.5799999999981083
+2023-08-24 21:08:44,448 : DEBUG : __main__ : hourly energy function run 00028522.408
+2023-08-24 21:08:44,449 : DEBUG : __main__ : Newenergycounter 00028522.408
+2023-08-24 21:08:44,449 : DEBUG : __main__ : oldenergycounter 00028521.352
+2023-08-24 21:08:44,450 : DEBUG : __main__ : 1.0560000000004948
+2023-08-24 22:08:44,759 : DEBUG : __main__ : hourly energy function run 00028523.223
+2023-08-24 22:08:44,759 : DEBUG : __main__ : Newenergycounter 00028523.223
+2023-08-24 22:08:44,760 : DEBUG : __main__ : oldenergycounter 00028522.408
+2023-08-24 22:08:44,760 : DEBUG : __main__ : 0.8150000000023283
+2023-08-24 23:08:49,211 : DEBUG : __main__ : hourly energy function run 00028524.996
+2023-08-24 23:08:49,212 : DEBUG : __main__ : Newenergycounter 00028524.996
+2023-08-24 23:08:49,213 : DEBUG : __main__ : oldenergycounter 00028523.223
+2023-08-24 23:08:49,213 : DEBUG : __main__ : 1.7729999999974098
+2023-08-25 00:08:50,538 : DEBUG : __main__ : hourly energy function run 00028525.804
+2023-08-25 00:08:50,538 : DEBUG : __main__ : Newenergycounter 00028525.804
+2023-08-25 00:08:50,539 : DEBUG : __main__ : oldenergycounter 00028524.996
+2023-08-25 00:08:50,539 : DEBUG : __main__ : 0.8080000000009022
+2023-08-25 01:08:58,684 : DEBUG : __main__ : hourly energy function run 00028526.857
+2023-08-25 01:08:58,685 : DEBUG : __main__ : Newenergycounter 00028526.857
+2023-08-25 01:08:58,685 : DEBUG : __main__ : oldenergycounter 00028525.804
+2023-08-25 01:08:58,686 : DEBUG : __main__ : 1.0529999999998836
+2023-08-25 02:09:04,866 : DEBUG : __main__ : hourly energy function run 00028527.474
+2023-08-25 02:09:04,866 : DEBUG : __main__ : Newenergycounter 00028527.474
+2023-08-25 02:09:04,867 : DEBUG : __main__ : oldenergycounter 00028526.857
+2023-08-25 02:09:04,867 : DEBUG : __main__ : 0.6169999999983702
+2023-08-25 03:09:15,785 : DEBUG : __main__ : hourly energy function run 00028528.042
+2023-08-25 03:09:15,786 : DEBUG : __main__ : Newenergycounter 00028528.042
+2023-08-25 03:09:15,787 : DEBUG : __main__ : oldenergycounter 00028527.474
+2023-08-25 03:09:15,787 : DEBUG : __main__ : 0.5680000000029395
+2023-08-25 04:09:21,656 : DEBUG : __main__ : hourly energy function run 00028528.428
+2023-08-25 04:09:21,656 : DEBUG : __main__ : Newenergycounter 00028528.428
+2023-08-25 04:09:21,657 : DEBUG : __main__ : oldenergycounter 00028528.042
+2023-08-25 04:09:21,657 : DEBUG : __main__ : 0.385999999998603
+2023-08-25 05:09:26,564 : DEBUG : __main__ : hourly energy function run 00028528.982
+2023-08-25 05:09:26,564 : DEBUG : __main__ : Newenergycounter 00028528.982
+2023-08-25 05:09:26,565 : DEBUG : __main__ : oldenergycounter 00028528.428
+2023-08-25 05:09:26,565 : DEBUG : __main__ : 0.5540000000000873
+2023-08-25 06:09:30,537 : DEBUG : __main__ : hourly energy function run 00028529.620
+2023-08-25 06:09:30,538 : DEBUG : __main__ : Newenergycounter 00028529.620
+2023-08-25 06:09:30,539 : DEBUG : __main__ : oldenergycounter 00028528.982
+2023-08-25 06:09:30,539 : DEBUG : __main__ : 0.6379999999990105
+2023-08-25 07:09:35,194 : DEBUG : __main__ : hourly energy function run 00028530.737
+2023-08-25 07:09:35,195 : DEBUG : __main__ : Newenergycounter 00028530.737
+2023-08-25 07:09:35,195 : DEBUG : __main__ : oldenergycounter 00028529.620
+2023-08-25 07:09:35,196 : DEBUG : __main__ : 1.1170000000020082
+2023-08-25 08:09:41,745 : DEBUG : __main__ : hourly energy function run 00028531.288
+2023-08-25 08:09:41,746 : DEBUG : __main__ : Newenergycounter 00028531.288
+2023-08-25 08:09:41,748 : DEBUG : __main__ : oldenergycounter 00028530.737
+2023-08-25 08:09:41,749 : DEBUG : __main__ : 0.5509999999994761
+2023-08-25 09:09:42,820 : DEBUG : __main__ : hourly energy function run 00028531.803
+2023-08-25 09:09:42,821 : DEBUG : __main__ : Newenergycounter 00028531.803
+2023-08-25 09:09:42,822 : DEBUG : __main__ : oldenergycounter 00028531.288
+2023-08-25 09:09:42,823 : DEBUG : __main__ : 0.5149999999994179
+2023-08-25 10:09:46,567 : DEBUG : __main__ : hourly energy function run 00028532.344
+2023-08-25 10:09:46,567 : DEBUG : __main__ : Newenergycounter 00028532.344
+2023-08-25 10:09:46,568 : DEBUG : __main__ : oldenergycounter 00028531.803
+2023-08-25 10:09:46,568 : DEBUG : __main__ : 0.5410000000010768
+2023-08-25 11:09:49,885 : DEBUG : __main__ : hourly energy function run 00028533.300
+2023-08-25 11:09:49,886 : DEBUG : __main__ : Newenergycounter 00028533.300
+2023-08-25 11:09:49,886 : DEBUG : __main__ : oldenergycounter 00028532.344
+2023-08-25 11:09:49,887 : DEBUG : __main__ : 0.955999999998312
+2023-08-25 12:09:55,036 : DEBUG : __main__ : hourly energy function run 00028533.939
+2023-08-25 12:09:55,036 : DEBUG : __main__ : Newenergycounter 00028533.939
+2023-08-25 12:09:55,037 : DEBUG : __main__ : oldenergycounter 00028533.300
+2023-08-25 12:09:55,037 : DEBUG : __main__ : 0.6389999999992142
+2023-08-25 13:10:02,832 : DEBUG : __main__ : hourly energy function run 00028534.532
+2023-08-25 13:10:02,833 : DEBUG : __main__ : Newenergycounter 00028534.532
+2023-08-25 13:10:02,834 : DEBUG : __main__ : oldenergycounter 00028533.939
+2023-08-25 13:10:02,834 : DEBUG : __main__ : 0.5930000000007567
+2023-08-25 14:10:07,690 : DEBUG : __main__ : hourly energy function run 00028535.124
+2023-08-25 14:10:07,690 : DEBUG : __main__ : Newenergycounter 00028535.124
+2023-08-25 14:10:07,691 : DEBUG : __main__ : oldenergycounter 00028534.532
+2023-08-25 14:10:07,691 : DEBUG : __main__ : 0.592000000000553
+2023-08-25 15:10:18,339 : DEBUG : __main__ : hourly energy function run 00028535.730
+2023-08-25 15:10:18,339 : DEBUG : __main__ : Newenergycounter 00028535.730
+2023-08-25 15:10:18,340 : DEBUG : __main__ : oldenergycounter 00028535.124
+2023-08-25 15:10:18,340 : DEBUG : __main__ : 0.6059999999997672
+2023-08-25 16:10:23,585 : DEBUG : __main__ : hourly energy function run 00028539.010
+2023-08-25 16:10:23,586 : DEBUG : __main__ : Newenergycounter 00028539.010
+2023-08-25 16:10:23,586 : DEBUG : __main__ : oldenergycounter 00028535.730
+2023-08-25 16:10:23,587 : DEBUG : __main__ : 3.279999999998836
+2023-08-25 17:10:33,268 : DEBUG : __main__ : hourly energy function run 00028541.090
+2023-08-25 17:10:33,268 : DEBUG : __main__ : Newenergycounter 00028541.090
+2023-08-25 17:10:33,269 : DEBUG : __main__ : oldenergycounter 00028539.010
+2023-08-25 17:10:33,270 : DEBUG : __main__ : 2.0800000000017462
+2023-08-25 18:10:41,465 : DEBUG : __main__ : hourly energy function run 00028543.442
+2023-08-25 18:10:41,466 : DEBUG : __main__ : Newenergycounter 00028543.442
+2023-08-25 18:10:41,466 : DEBUG : __main__ : oldenergycounter 00028541.090
+2023-08-25 18:10:41,467 : DEBUG : __main__ : 2.3519999999989523
+2023-08-25 19:10:46,582 : DEBUG : __main__ : hourly energy function run 00028544.427
+2023-08-25 19:10:46,582 : DEBUG : __main__ : Newenergycounter 00028544.427
+2023-08-25 19:10:46,583 : DEBUG : __main__ : oldenergycounter 00028543.442
+2023-08-25 19:10:46,583 : DEBUG : __main__ : 0.9850000000005821
+2023-08-25 20:10:48,087 : DEBUG : __main__ : hourly energy function run 00028545.230
+2023-08-25 20:10:48,088 : DEBUG : __main__ : Newenergycounter 00028545.230
+2023-08-25 20:10:48,088 : DEBUG : __main__ : oldenergycounter 00028544.427
+2023-08-25 20:10:48,089 : DEBUG : __main__ : 0.8029999999998836
+2023-08-25 21:10:51,349 : DEBUG : __main__ : hourly energy function run 00028547.791
+2023-08-25 21:10:51,350 : DEBUG : __main__ : Newenergycounter 00028547.791
+2023-08-25 21:10:51,350 : DEBUG : __main__ : oldenergycounter 00028545.230
+2023-08-25 21:10:51,351 : DEBUG : __main__ : 2.5610000000015134
+2023-08-25 22:10:54,328 : DEBUG : __main__ : hourly energy function run 00028550.455
+2023-08-25 22:10:54,328 : DEBUG : __main__ : Newenergycounter 00028550.455
+2023-08-25 22:10:54,329 : DEBUG : __main__ : oldenergycounter 00028547.791
+2023-08-25 22:10:54,329 : DEBUG : __main__ : 2.6640000000006694
+2023-08-25 23:10:58,046 : DEBUG : __main__ : hourly energy function run 00028551.226
+2023-08-25 23:10:58,046 : DEBUG : __main__ : Newenergycounter 00028551.226
+2023-08-25 23:10:58,047 : DEBUG : __main__ : oldenergycounter 00028550.455
+2023-08-25 23:10:58,047 : DEBUG : __main__ : 0.7709999999970023
+2023-08-26 00:11:03,118 : DEBUG : __main__ : hourly energy function run 00028551.984
+2023-08-26 00:11:03,119 : DEBUG : __main__ : Newenergycounter 00028551.984
+2023-08-26 00:11:03,119 : DEBUG : __main__ : oldenergycounter 00028551.226
+2023-08-26 00:11:03,120 : DEBUG : __main__ : 0.7580000000016298
+2023-08-26 01:11:09,657 : DEBUG : __main__ : hourly energy function run 00028553.057
+2023-08-26 01:11:09,658 : DEBUG : __main__ : Newenergycounter 00028553.057
+2023-08-26 01:11:09,659 : DEBUG : __main__ : oldenergycounter 00028551.984
+2023-08-26 01:11:09,659 : DEBUG : __main__ : 1.0730000000003201
+2023-08-26 02:11:18,905 : DEBUG : __main__ : hourly energy function run 00028553.616
+2023-08-26 02:11:18,905 : DEBUG : __main__ : Newenergycounter 00028553.616
+2023-08-26 02:11:18,906 : DEBUG : __main__ : oldenergycounter 00028553.057
+2023-08-26 02:11:18,906 : DEBUG : __main__ : 0.559000000001106
+2023-08-26 03:11:25,572 : DEBUG : __main__ : hourly energy function run 00028554.157
+2023-08-26 03:11:25,572 : DEBUG : __main__ : Newenergycounter 00028554.157
+2023-08-26 03:11:25,574 : DEBUG : __main__ : oldenergycounter 00028553.616
+2023-08-26 03:11:25,576 : DEBUG : __main__ : 0.5409999999974389
+2023-08-26 04:11:28,594 : DEBUG : __main__ : hourly energy function run 00028554.687
+2023-08-26 04:11:28,594 : DEBUG : __main__ : Newenergycounter 00028554.687
+2023-08-26 04:11:28,595 : DEBUG : __main__ : oldenergycounter 00028554.157
+2023-08-26 04:11:28,595 : DEBUG : __main__ : 0.5300000000024738
+2023-08-26 05:11:30,948 : DEBUG : __main__ : hourly energy function run 00028555.602
+2023-08-26 05:11:30,948 : DEBUG : __main__ : Newenergycounter 00028555.602
+2023-08-26 05:11:30,949 : DEBUG : __main__ : oldenergycounter 00028554.687
+2023-08-26 05:11:30,949 : DEBUG : __main__ : 0.9149999999972351
+2023-08-26 06:11:33,343 : DEBUG : __main__ : hourly energy function run 00028556.169
+2023-08-26 06:11:33,344 : DEBUG : __main__ : Newenergycounter 00028556.169
+2023-08-26 06:11:33,344 : DEBUG : __main__ : oldenergycounter 00028555.602
+2023-08-26 06:11:33,345 : DEBUG : __main__ : 0.5670000000027358
+2023-08-26 07:11:38,697 : DEBUG : __main__ : hourly energy function run 00028556.702
+2023-08-26 07:11:38,697 : DEBUG : __main__ : Newenergycounter 00028556.702
+2023-08-26 07:11:38,698 : DEBUG : __main__ : oldenergycounter 00028556.169
+2023-08-26 07:11:38,698 : DEBUG : __main__ : 0.532999999999447
+2023-08-26 08:11:42,161 : DEBUG : __main__ : hourly energy function run 00028557.245
+2023-08-26 08:11:42,162 : DEBUG : __main__ : Newenergycounter 00028557.245
+2023-08-26 08:11:42,162 : DEBUG : __main__ : oldenergycounter 00028556.702
+2023-08-26 08:11:42,163 : DEBUG : __main__ : 0.5429999999978463
+2023-08-26 09:11:44,859 : DEBUG : __main__ : hourly energy function run 00028557.815
+2023-08-26 09:11:44,860 : DEBUG : __main__ : Newenergycounter 00028557.815
+2023-08-26 09:11:44,860 : DEBUG : __main__ : oldenergycounter 00028557.245
+2023-08-26 09:11:44,861 : DEBUG : __main__ : 0.569999999999709
+2023-08-26 10:11:46,901 : DEBUG : __main__ : hourly energy function run 00028558.962
+2023-08-26 10:11:46,902 : DEBUG : __main__ : Newenergycounter 00028558.962
+2023-08-26 10:11:46,903 : DEBUG : __main__ : oldenergycounter 00028557.815
+2023-08-26 10:11:46,903 : DEBUG : __main__ : 1.147000000000844
+2023-08-26 11:11:48,951 : DEBUG : __main__ : hourly energy function run 00028559.666
+2023-08-26 11:11:48,951 : DEBUG : __main__ : Newenergycounter 00028559.666
+2023-08-26 11:11:48,952 : DEBUG : __main__ : oldenergycounter 00028558.962
+2023-08-26 11:11:48,952 : DEBUG : __main__ : 0.7040000000015425
+2023-08-26 12:11:56,870 : DEBUG : __main__ : hourly energy function run 00028561.316
+2023-08-26 12:11:56,870 : DEBUG : __main__ : Newenergycounter 00028561.316
+2023-08-26 12:11:56,871 : DEBUG : __main__ : oldenergycounter 00028559.666
+2023-08-26 12:11:56,872 : DEBUG : __main__ : 1.6499999999978172
+2023-08-26 13:12:03,980 : DEBUG : __main__ : hourly energy function run 00028562.034
+2023-08-26 13:12:03,981 : DEBUG : __main__ : Newenergycounter 00028562.034
+2023-08-26 13:12:03,982 : DEBUG : __main__ : oldenergycounter 00028561.316
+2023-08-26 13:12:03,982 : DEBUG : __main__ : 0.7180000000007567
+2023-08-26 14:12:08,740 : DEBUG : __main__ : hourly energy function run 00028562.751
+2023-08-26 14:12:08,741 : DEBUG : __main__ : Newenergycounter 00028562.751
+2023-08-26 14:12:08,741 : DEBUG : __main__ : oldenergycounter 00028562.034
+2023-08-26 14:12:08,742 : DEBUG : __main__ : 0.717000000000553
+2023-08-26 15:12:15,423 : DEBUG : __main__ : hourly energy function run 00028564.426
+2023-08-26 15:12:15,424 : DEBUG : __main__ : Newenergycounter 00028564.426
+2023-08-26 15:12:15,425 : DEBUG : __main__ : oldenergycounter 00028562.751
+2023-08-26 15:12:15,425 : DEBUG : __main__ : 1.6749999999992724
+2023-08-26 16:12:25,101 : DEBUG : __main__ : hourly energy function run 00028565.802
+2023-08-26 16:12:25,102 : DEBUG : __main__ : Newenergycounter 00028565.802
+2023-08-26 16:12:25,102 : DEBUG : __main__ : oldenergycounter 00028564.426
+2023-08-26 16:12:25,103 : DEBUG : __main__ : 1.3760000000002037
+2023-08-26 17:12:25,371 : DEBUG : __main__ : hourly energy function run 00028567.144
+2023-08-26 17:12:25,372 : DEBUG : __main__ : Newenergycounter 00028567.144
+2023-08-26 17:12:25,372 : DEBUG : __main__ : oldenergycounter 00028565.802
+2023-08-26 17:12:25,373 : DEBUG : __main__ : 1.342000000000553
+2023-08-26 18:12:28,022 : DEBUG : __main__ : hourly energy function run 00028573.434
+2023-08-26 18:12:28,022 : DEBUG : __main__ : Newenergycounter 00028573.434
+2023-08-26 18:12:28,023 : DEBUG : __main__ : oldenergycounter 00028567.144
+2023-08-26 18:12:28,023 : DEBUG : __main__ : 6.290000000000873
+2023-08-26 19:12:36,567 : DEBUG : __main__ : hourly energy function run 00028579.784
+2023-08-26 19:12:36,567 : DEBUG : __main__ : Newenergycounter 00028579.784
+2023-08-26 19:12:36,568 : DEBUG : __main__ : oldenergycounter 00028573.434
+2023-08-26 19:12:36,569 : DEBUG : __main__ : 6.349999999998545
+2023-08-26 20:12:42,506 : DEBUG : __main__ : hourly energy function run 00028582.155
+2023-08-26 20:12:42,507 : DEBUG : __main__ : Newenergycounter 00028582.155
+2023-08-26 20:12:42,507 : DEBUG : __main__ : oldenergycounter 00028579.784
+2023-08-26 20:12:42,508 : DEBUG : __main__ : 2.370999999999185
+2023-08-26 21:12:42,634 : DEBUG : __main__ : hourly energy function run 00028584.273
+2023-08-26 21:12:42,634 : DEBUG : __main__ : Newenergycounter 00028584.273
+2023-08-26 21:12:42,635 : DEBUG : __main__ : oldenergycounter 00028582.155
+2023-08-26 21:12:42,635 : DEBUG : __main__ : 2.118000000002212
+2023-08-26 22:12:45,505 : DEBUG : __main__ : hourly energy function run 00028585.193
+2023-08-26 22:12:45,505 : DEBUG : __main__ : Newenergycounter 00028585.193
+2023-08-26 22:12:45,506 : DEBUG : __main__ : oldenergycounter 00028584.273
+2023-08-26 22:12:45,506 : DEBUG : __main__ : 0.9199999999982538
+2023-08-26 23:12:49,277 : DEBUG : __main__ : hourly energy function run 00028587.496
+2023-08-26 23:12:49,278 : DEBUG : __main__ : Newenergycounter 00028587.496
+2023-08-26 23:12:49,279 : DEBUG : __main__ : oldenergycounter 00028585.193
+2023-08-26 23:12:49,280 : DEBUG : __main__ : 2.3029999999998836
+2023-08-27 00:12:55,694 : DEBUG : __main__ : hourly energy function run 00028588.159
+2023-08-27 00:12:55,695 : DEBUG : __main__ : Newenergycounter 00028588.159
+2023-08-27 00:12:55,696 : DEBUG : __main__ : oldenergycounter 00028587.496
+2023-08-27 00:12:55,696 : DEBUG : __main__ : 0.6630000000004657
+2023-08-27 01:13:01,660 : DEBUG : __main__ : hourly energy function run 00028589.309
+2023-08-27 01:13:01,661 : DEBUG : __main__ : Newenergycounter 00028589.309
+2023-08-27 01:13:01,661 : DEBUG : __main__ : oldenergycounter 00028588.159
+2023-08-27 01:13:01,661 : DEBUG : __main__ : 1.1500000000014552
+2023-08-27 02:13:04,163 : DEBUG : __main__ : hourly energy function run 00028590.036
+2023-08-27 02:13:04,163 : DEBUG : __main__ : Newenergycounter 00028590.036
+2023-08-27 02:13:04,164 : DEBUG : __main__ : oldenergycounter 00028589.309
+2023-08-27 02:13:04,164 : DEBUG : __main__ : 0.7269999999989523
+2023-08-27 03:13:08,660 : DEBUG : __main__ : hourly energy function run 00028590.492
+2023-08-27 03:13:08,661 : DEBUG : __main__ : Newenergycounter 00028590.492
+2023-08-27 03:13:08,661 : DEBUG : __main__ : oldenergycounter 00028590.036
+2023-08-27 03:13:08,662 : DEBUG : __main__ : 0.455999999998312
+2023-08-27 03:41:58,781 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-27 04:13:09,770 : DEBUG : __main__ : hourly energy function run 00028591.573
+2023-08-27 04:13:09,771 : DEBUG : __main__ : Newenergycounter 00028591.573
+2023-08-27 04:13:09,771 : DEBUG : __main__ : oldenergycounter 00028590.492
+2023-08-27 04:13:09,772 : DEBUG : __main__ : 1.08100000000195
+2023-08-27 05:13:14,949 : DEBUG : __main__ : hourly energy function run 00028591.957
+2023-08-27 05:13:14,950 : DEBUG : __main__ : Newenergycounter 00028591.957
+2023-08-27 05:13:14,951 : DEBUG : __main__ : oldenergycounter 00028591.573
+2023-08-27 05:13:14,951 : DEBUG : __main__ : 0.38399999999819556
+2023-08-27 06:13:24,255 : DEBUG : __main__ : hourly energy function run 00028592.488
+2023-08-27 06:13:24,256 : DEBUG : __main__ : Newenergycounter 00028592.488
+2023-08-27 06:13:24,256 : DEBUG : __main__ : oldenergycounter 00028591.957
+2023-08-27 06:13:24,257 : DEBUG : __main__ : 0.5310000000026776
+2023-08-27 07:13:26,726 : DEBUG : __main__ : hourly energy function run 00028593.044
+2023-08-27 07:13:26,727 : DEBUG : __main__ : Newenergycounter 00028593.044
+2023-08-27 07:13:26,727 : DEBUG : __main__ : oldenergycounter 00028592.488
+2023-08-27 07:13:26,728 : DEBUG : __main__ : 0.5560000000004948
+2023-08-27 08:13:35,491 : DEBUG : __main__ : hourly energy function run 00028593.407
+2023-08-27 08:13:35,491 : DEBUG : __main__ : Newenergycounter 00028593.407
+2023-08-27 08:13:35,492 : DEBUG : __main__ : oldenergycounter 00028593.044
+2023-08-27 08:13:35,493 : DEBUG : __main__ : 0.3629999999975553
+2023-08-27 09:13:44,142 : DEBUG : __main__ : hourly energy function run 00028594.293
+2023-08-27 09:13:44,143 : DEBUG : __main__ : Newenergycounter 00028594.293
+2023-08-27 09:13:44,143 : DEBUG : __main__ : oldenergycounter 00028593.407
+2023-08-27 09:13:44,144 : DEBUG : __main__ : 0.886000000002241
+2023-08-27 10:13:53,601 : DEBUG : __main__ : hourly energy function run 00028595.596
+2023-08-27 10:13:53,602 : DEBUG : __main__ : Newenergycounter 00028595.596
+2023-08-27 10:13:53,602 : DEBUG : __main__ : oldenergycounter 00028594.293
+2023-08-27 10:13:53,603 : DEBUG : __main__ : 1.3029999999998836
+2023-08-27 11:05:41,494 : DEBUG : __main__ : TimeoutError('timed out')

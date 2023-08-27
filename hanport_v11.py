@@ -144,19 +144,19 @@ if __name__ == '__main__':
                     #print("rad 2")
                     read_date = elec_data[10:22]
                     datevalue=read_date.decode("utf-8")
-                    #print ('date', datevalue)
+                    print ('date', datevalue)
                 if i==3:
                     #print("startpos", pos_start)
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_out=read_date.decode("utf-8")
-                    print ('active energiuttag  mätare',active_energy_out,valuetype)
+                    #print ('active energiuttag  mätare',active_energy_out,valuetype)
                 if i==4:
                     #print("rad 4")
                     read_date = elec_data[pos_start:pos_end]
                     valuetype = elec_data[pos_end+1:pos_type]
                     active_energy_in=read_date.decode("utf-8")
-                    print ('active energi inmatning mätare', active_energy_in,valuetype)
+                    #print ('active energi inmatning mätare', active_energy_in,valuetype)
                 if i==5:
                     #print("rad 5")
                     read_date = elec_data[pos_start:pos_end]
@@ -301,7 +301,7 @@ if __name__ == '__main__':
                     L3ampere=read_date.decode("utf-8")
                     #print ('Fasström L3', L3ampere,valuetype)
             else:
-                print("forloop finished")
+                #print("forloop finished")
             mqtt_save()
             schedule.run_pending()
 
