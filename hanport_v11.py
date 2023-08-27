@@ -300,7 +300,7 @@ if __name__ == '__main__':
                     valuetype = elec_data[pos_end+1:pos_type]
                     L3ampere=read_date.decode("utf-8")
                     #print ('Fasström L3', L3ampere,valuetype)
-            else:
+            #else:
                 #print("forloop finished")
             mqtt_save()
             schedule.run_pending()

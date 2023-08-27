@@ -1483,3 +1483,7 @@
 2023-08-27 10:13:53,602 : DEBUG : __main__ : oldenergycounter 00028594.293
 2023-08-27 10:13:53,603 : DEBUG : __main__ : 1.3029999999998836
 2023-08-27 11:05:41,494 : DEBUG : __main__ : TimeoutError('timed out')
+2023-08-27 11:13:58,179 : DEBUG : __main__ : hourly energy function run 00028597.012
+2023-08-27 11:13:58,180 : DEBUG : __main__ : Newenergycounter 00028597.012
+2023-08-27 11:13:58,181 : DEBUG : __main__ : oldenergycounter 00028595.596
+2023-08-27 11:13:58,182 : DEBUG : __main__ : 1.4159999999974389
